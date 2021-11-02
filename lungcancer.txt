@@ -1,0 +1,929 @@
+mirId	Family/Cluster	Cancer	Profile	PubMed Article
+hsa-let-7b	let-7	lung cancer	down	Reduced expression of the let-7 microRNAs in human lung cancers in association with shortened postoperative survival.
+hsa-let-7b	let-7	lung cancer	down	Reduced expression of Dicer associated with poor prognosis in lung cancer patients.
+hsa-let-7b	let-7	lung cancer	down	Let-7a elevates p21(WAF1) levels by targeting of NIRF and suppresses the growth of A549 lung cancer cells.
+hsa-let-7c	let-7	lung cancer	down	Reduced expression of the let-7 microRNAs in human lung cancers in association with shortened postoperative survival.
+hsa-let-7c	let-7	lung cancer	down	Reduced expression of Dicer associated with poor prognosis in lung cancer patients.
+hsa-let-7c	let-7	lung cancer	down	Let-7a elevates p21(WAF1) levels by targeting of NIRF and suppresses the growth of A549 lung cancer cells.
+hsa-let-7d	let-7	lung cancer	down	Reduced expression of the let-7 microRNAs in human lung cancers in association with shortened postoperative survival.
+hsa-let-7d	let-7	lung cancer	down	Reduced expression of Dicer associated with poor prognosis in lung cancer patients.
+hsa-let-7d	let-7	lung cancer	down	Let-7a elevates p21(WAF1) levels by targeting of NIRF and suppresses the growth of A549 lung cancer cells.
+hsa-let-7e	let-7	lung cancer	down	Reduced expression of the let-7 microRNAs in human lung cancers in association with shortened postoperative survival.
+hsa-let-7e	let-7	lung cancer	down	Reduced expression of Dicer associated with poor prognosis in lung cancer patients.
+hsa-let-7e	let-7	lung cancer	down	Let-7a elevates p21(WAF1) levels by targeting of NIRF and suppresses the growth of A549 lung cancer cells.
+hsa-let-7g	let-7	lung cancer	down	Reduced expression of the let-7 microRNAs in human lung cancers in association with shortened postoperative survival.
+hsa-let-7g	let-7	lung cancer	down	Reduced expression of Dicer associated with poor prognosis in lung cancer patients.
+hsa-let-7g	let-7	lung cancer	down	Let-7a elevates p21(WAF1) levels by targeting of NIRF and suppresses the growth of A549 lung cancer cells.
+hsa-let-7i	let-7	lung cancer	down	Reduced expression of the let-7 microRNAs in human lung cancers in association with shortened postoperative survival.
+hsa-let-7i	let-7	lung cancer	down	Reduced expression of Dicer associated with poor prognosis in lung cancer patients.
+hsa-let-7i	let-7	lung cancer	down	Let-7a elevates p21(WAF1) levels by targeting of NIRF and suppresses the growth of A549 lung cancer cells.
+hsa-miR-1		lung cancer	down	Down-regulation of micro-RNA-1 (miR-1) in lung cancer. Suppression of tumorigenic property of lung cancer cells and their sensitization to doxorubicin-induced apoptosis by miR-1.
+hsa-miR-101		lung cancer	down	microRNA-101 inhibits lung cancer invasion through the regulation of enhancer of zeste homolog 2.
+hsa-miR-10b		lung cancer	up	microRNA miR-10b inhibition reduces cell proliferation and promotes apoptosis in non-small cell lung cancer (NSCLC) cells.
+hsa-miR-133b		lung cancer	down	MicroRNA 133B targets pro-survival molecules MCL-1 and BCL2L2 in lung cancer.
+hsa-miR-135a		lung cancer	down	MiR-135a inhibits migration and invasion and regulates EMT-related marker genes by targeting KLF8 in lung cancer cells.
+hsa-miR-135b		lung cancer	up	MicroRNA-135b promotes lung cancer metastasis by regulating multiple targets in the Hippo pathway and LZTS1.
+hsa-miR-137		lung cancer	down	Silencing of miR-137 by aberrant promoter hypermethylation in surgically resected lung cancer.
+hsa-miR-138		lung cancer	down	Up-regulation of microRNA-138 induce radiosensitization in lung cancer cells.
+hsa-miR-141	mir-200	lung cancer	up	MicroRNA-200 promotes lung cancer cell growth through FOG2-independent AKT activation.
+hsa-miR-142-5p		lung cancer	down	Uncovering growth-suppressive MicroRNAs in lung cancer.
+hsa-miR-144		lung cancer	down	MiR-144 Inhibits Proliferation and Induces Apoptosis and Autophagy in Lung Cancer Cells by Targeting TIGAR.
+hsa-miR-145		lung cancer	down	Uncovering growth-suppressive MicroRNAs in lung cancer.
+hsa-miR-145		lung cancer	down	MicroRNA-145 inhibits lung cancer cell metastasis.
+hsa-miR-145		lung cancer	down	MicroRNA-145 inhibits migration and invasion by down-regulating FSCN1 in lung cancer.
+hsa-miR-1469		lung cancer	down	MiRNA-1469 promotes lung cancer cells apoptosis through targeting STAT5a.
+hsa-miR-146a		lung cancer	down	Regulation of COX-2 expression by miR-146a in lung cancer cells.
+hsa-miR-150		lung cancer	up	miR-150 promotes the proliferation and migration of lung cancer cells by targeting SRC kinase signalling inhibitor 1.
+hsa-miR-153		lung cancer	down	Suppression of AKT expression by miR-153 produced anti-tumor activity in lung cancer.
+hsa-miR-155		lung cancer	up	Inhibition of hypoxia-induced miR-155 radiosensitizes hypoxic lung cancer cells.
+hsa-miR-155		lung cancer	up	MiR-155 inhibits the sensitivity of lung cancer cells to cisplatin via negative regulation of Apaf-1 expression.
+hsa-miR-155		lung cancer	up	Differential MicroRNAs Expression in Serum of Patients with Lung Cancer, Pulmonary Tuberculosis, and Pneumonia.
+hsa-miR-15a	mir-15	lung cancer	down	Histone deacetylases inhibitor trichostatin A increases the expression of Dleu2/miR-15a/16-1 via HDAC3 in non-small cell lung cancer.
+hsa-miR-15b	mir-15	lung cancer	down	Histone deacetylases inhibitor trichostatin A increases the expression of Dleu2/miR-15a/16-1 via HDAC3 in non-small cell lung cancer.
+hsa-miR-17	mir-17-92	lung cancer	up	A polycistronic microRNA cluster, miR-17-92, is overexpressed in human lung cancers and enhances cell proliferation.
+hsa-miR-17	mir-17-92	lung cancer	up	Apoptosis induction by antisense oligonucleotides against miR-17-5p and miR-20a in lung cancers overexpressing miR-17-92.
+hsa-miR-17	mir-17-92	lung cancer	up	MicroRNA miR-17-5p is overexpressed in pancreatic cancer, associated with a poor prognosis, and involved in cancer cell proliferation and invasion.
+hsa-miR-182		lung cancer	up	Differential MicroRNAs Expression in Serum of Patients with Lung Cancer, Pulmonary Tuberculosis, and Pneumonia.
+hsa-miR-182		lung cancer	up	Downregulation of microRNA-182 inhibits cell growth and invasion by targeting programmed cell death 4 in human lung adenocarcinoma cells.
+hsa-miR-182		lung cancer	down	[Methylation Status of miR-182 Promoter in Lung Cancer Cell Lines].
+hsa-miR-183-3p		lung cancer	up	Up-regulation of microRNA-183-3p is a potent prognostic marker for lung adenocarcinoma of female non-smokers.
+hsa-miR-18a	mir-17-92	lung cancer	up	A polycistronic microRNA cluster, miR-17-92, is overexpressed in human lung cancers and enhances cell proliferation.
+hsa-miR-18a	mir-17-92	lung cancer	up	Apoptosis induction by antisense oligonucleotides against miR-17-5p and miR-20a in lung cancers overexpressing miR-17-92.
+hsa-miR-18a	mir-17-92	lung cancer	up	MicroRNA miR-17-5p is overexpressed in pancreatic cancer, associated with a poor prognosis, and involved in cancer cell proliferation and invasion.
+hsa-miR-192		lung cancer	down	MicroRNA-192 targeting retinoblastoma 1 inhibits cell proliferation and induces cell apoptosis in lung cancer cells.
+hsa-miR-193a-3p		lung cancer	down	miR-193a-3p functions as a tumor suppressor in lung cancer by downregulating ERBB4.
+hsa-miR-194		lung cancer	down	miR-194 suppresses metastasis of non-small cell lung cancer through regulating expression of BMP1 and p27(kip1.)
+hsa-miR-195	mir-15	lung cancer	down	Histone deacetylases inhibitor trichostatin A increases the expression of Dleu2/miR-15a/16-1 via HDAC3 in non-small cell lung cancer.
+hsa-miR-195		lung cancer	down	MiR-195 suppresses non-small cell lung cancer by targeting CHEK1.
+hsa-miR-197		lung cancer	up	Differential MicroRNAs Expression in Serum of Patients with Lung Cancer, Pulmonary Tuberculosis, and Pneumonia.
+hsa-miR-198		lung cancer	down	MicroRNA-198 Inhibits Proliferation and Induces Apoptosis of Lung Cancer Cells Via Targeting FGFR1.
+hsa-miR-19a	mir-17-92	lung cancer	up	A polycistronic microRNA cluster, miR-17-92, is overexpressed in human lung cancers and enhances cell proliferation.
+hsa-miR-19a	mir-17-92	lung cancer	up	Apoptosis induction by antisense oligonucleotides against miR-17-5p and miR-20a in lung cancers overexpressing miR-17-92.
+hsa-miR-19a	mir-17-92	lung cancer	up	MicroRNA miR-17-5p is overexpressed in pancreatic cancer, associated with a poor prognosis, and involved in cancer cell proliferation and invasion.
+hsa-miR-19b	mir-17-92	lung cancer	up	A polycistronic microRNA cluster, miR-17-92, is overexpressed in human lung cancers and enhances cell proliferation.
+hsa-miR-19b	mir-17-92	lung cancer	up	Apoptosis induction by antisense oligonucleotides against miR-17-5p and miR-20a in lung cancers overexpressing miR-17-92.
+hsa-miR-19b	mir-17-92	lung cancer	up	MicroRNA miR-17-5p is overexpressed in pancreatic cancer, associated with a poor prognosis, and involved in cancer cell proliferation and invasion.
+hsa-miR-200a	mir-200	lung cancer	up	MicroRNA-200 promotes lung cancer cell growth through FOG2-independent AKT activation.
+hsa-miR-200b	mir-200	lung cancer	up	MicroRNA-200 promotes lung cancer cell growth through FOG2-independent AKT activation.
+hsa-miR-200c	mir-200	lung cancer	up	MicroRNA-200 promotes lung cancer cell growth through FOG2-independent AKT activation.
+hsa-miR-203		lung cancer	down	The expression and function of microRNA-203 in lung cancer.
+hsa-miR-203		lung cancer	down	miR-203 Suppresses the Proliferation and Migration and Promotes the Apoptosis of Lung Cancer Cells by Targeting SRC.
+hsa-miR-205		lung cancer	up	Evaluation of dynamic change of serum miR-21 and miR-24 in pre- and post-operative lung carcinoma patients.
+hsa-miR-205		lung cancer	up	miR-205 regulates A549 cells proliferation by targeting PTEN.
+hsa-miR-206		lung cancer	down	Comprehensive gene and microRNA expression profiling reveals miR-206 inhibits MET in lung cancer metastasis.
+hsa-miR-206		lung cancer	down	Down-regulation of c-Met and Bcl2 by microRNA-206, activates apoptosis, and inhibits tumor cell proliferation, migration and colony formation.
+hsa-miR-20a	mir-17-92	lung cancer	up	A polycistronic microRNA cluster, miR-17-92, is overexpressed in human lung cancers and enhances cell proliferation.
+hsa-miR-20a	mir-17-92	lung cancer	up	Apoptosis induction by antisense oligonucleotides against miR-17-5p and miR-20a in lung cancers overexpressing miR-17-92.
+hsa-miR-20a	mir-17-92	lung cancer	up	MicroRNA miR-17-5p is overexpressed in pancreatic cancer, associated with a poor prognosis, and involved in cancer cell proliferation and invasion.
+hsa-miR-21		lung cancer	up	Evaluation of dynamic change of serum miR-21 and miR-24 in pre- and post-operative lung carcinoma patients.
+hsa-miR-21		lung cancer	up	Differential MicroRNAs Expression in Serum of Patients with Lung Cancer, Pulmonary Tuberculosis, and Pneumonia.
+hsa-miR-21		lung cancer	up	Expression and significance of miRNA-21 and BTG2 in lung cancer.
+hsa-miR-210		lung cancer	up	MiR-210 promotes a hypoxic phenotype and increases radioresistance in human lung cancer cell lines.
+hsa-miR-217		lung cancer	down	MicroRNA-217 functions as a tumour suppressor gene and correlates with cell resistance to cisplatin in lung cancer.
+hsa-miR-218		lung cancer	down	MicroRNA-218 is deleted and downregulated in lung squamous cell carcinoma.
+hsa-miR-218		lung cancer	down	MiRNA-218, a new regulator of HMGB1, suppresses cell migration and invasion in non-small cell lung cancer.
+hsa-miR-22		lung cancer	down	Tumor suppressor miR-22 suppresses lung cancer cell progression through post-transcriptional regulation of ErbB3.
+hsa-miR-223		lung cancer	down	miR-223 functions as a potent tumor suppressor of the Lewis lung carcinoma cell line by targeting insulin-like growth factor-1 receptor and cyclin-dependent kinase 2.
+hsa-miR-24		lung cancer	up	Evaluation of dynamic change of serum miR-21 and miR-24 in pre- and post-operative lung carcinoma patients.
+hsa-miR-26a		lung cancer	down	MicroRNA-26a/b Regulate DNA Replication Licensing, Tumorigenesis and Prognosis by Targeting CDC6 in Lung Cancer.
+hsa-miR-26b		lung cancer	down	MicroRNA-26a/b Regulate DNA Replication Licensing, Tumorigenesis and Prognosis by Targeting CDC6 in Lung Cancer.
+hsa-miR-29c		lung cancer	down	miRNA-29c Suppresses Lung Cancer Cell Adhesion to Extracellular Matrix and Metastasis by Targeting Integrin ?1 and Matrix Metalloproteinase2 (MMP2).
+hsa-miR-30d		lung cancer	up	Evaluation of dynamic change of serum miR-21 and miR-24 in pre- and post-operative lung carcinoma patients.
+hsa-miR-33a		lung cancer	down	MicroRNA-33a inhibits lung cancer cell proliferation and invasion by regulating the expression of ?-catenin.
+hsa-miR-33a		lung cancer	down	MircoRNA-33a inhibits epithelial-to-mesenchymal transition and metastasis and could be a prognostic marker in non-small cell lung cancer.
+hsa-miR-34a	mir-34	lung cancer	down	Development of a lung cancer therapeutic based on the tumor suppressor microRNA-34.
+hsa-miR-34b	mir-34	lung cancer	down	Development of a lung cancer therapeutic based on the tumor suppressor microRNA-34.
+hsa-miR-34c		lung cancer	down	Uncovering growth-suppressive MicroRNAs in lung cancer.
+hsa-miR-34c	mir-34	lung cancer	down	Development of a lung cancer therapeutic based on the tumor suppressor microRNA-34.
+hsa-miR-365		lung cancer	down	MicroRNA-365 regulates NKX2-1, a key mediator of lung cancer.
+hsa-miR-3662		lung cancer	up	Plasma circulating microRNA-944 and microRNA-3662 as potential histologic type-specific early lung cancer biomarkers.
+hsa-miR-429	mir-200	lung cancer	up	MicroRNA-200 promotes lung cancer cell growth through FOG2-independent AKT activation.
+hsa-miR-449a		lung cancer	down	Combining microRNA-449a/b with a HDAC inhibitor has a synergistic effect on growth arrest in lung cancer.
+hsa-miR-449a		lung cancer	down	MicroRNA-449a inhibits cell growth in lung cancer and regulates long noncoding RNA nuclear enriched abundant transcript 1.
+hsa-miR-449b		lung cancer	down	Combining microRNA-449a/b with a HDAC inhibitor has a synergistic effect on growth arrest in lung cancer.
+hsa-miR-486-5p		lung cancer	down	Downregulation of miR-486-5p contributes to tumor progression and metastasis by targeting protumorigenic ARHGAP5 in lung cancer.
+hsa-miR-5100		lung cancer	up	miR-5100 promotes tumor growth in lung cancer by targeting Rab6.
+hsa-miR-545		lung cancer	down	MicroRNA-545 Suppresses Cell Proliferation by Targeting Cyclin D1 and CDK4 in Lung Cancer Cells.
+hsa-miR-570		lung cancer	up	MicroRNA-570 promotes lung carcinoma proliferation through targeting tumor suppressor KLF9.
+hsa-miR-610		lung cancer	down	[miR-610 suppresses lung cancer cell proliferation and invasion by targeting GJA3].
+hsa-miR-614		lung cancer	down	[MiR-614 Inhibited Lung Cancer Cell Invasion and Proliferation via Targeting PSA].
+hsa-miR-630		lung cancer	down	MiR-630 inhibits proliferation by targeting CDC7 kinase, but maintains the apoptotic balance by targeting multiple modulators in human lung cancer A549 cells.
+hsa-miR-660		lung cancer	down	Mir-660 is downregulated in lung cancer patients and its replacement inhibits lung tumorigenesis by targeting MDM2-p53 interaction.
+hsa-miR-663		lung cancer	up	MicroRNA-663 targets TGFB1 and regulates lung cancer proliferation.
+hsa-miR-7		lung cancer	up	EGFR promotes lung tumorigenesis by activating miR-7 through a Ras/ERK/Myc pathway that targets the Ets2 transcriptional repressor ERF.
+hsa-miR-7515		lung cancer	down	The Novel miR-7515 Decreases the Proliferation and Migration of Human Lung Cancer Cells by Targeting c-Met.
+hsa-miR-92a	mir-17-92	lung cancer	up	A polycistronic microRNA cluster, miR-17-92, is overexpressed in human lung cancers and enhances cell proliferation.
+hsa-miR-92a	mir-17-92	lung cancer	up	Apoptosis induction by antisense oligonucleotides against miR-17-5p and miR-20a in lung cancers overexpressing miR-17-92.
+hsa-miR-92a	mir-17-92	lung cancer	up	MicroRNA miR-17-5p is overexpressed in pancreatic cancer, associated with a poor prognosis, and involved in cancer cell proliferation and invasion.
+hsa-miR-944		lung cancer	up	Plasma circulating microRNA-944 and microRNA-3662 as potential histologic type-specific early lung cancer biomarkers.
+hsa-miR-9500		lung cancer	down	The novel miR-9500 regulates the proliferation and migration of human lung cancer cells by targeting Akt1.
+hsa-miR-98	let-7	lung cancer	down	Reduced expression of the let-7 microRNAs in human lung cancers in association with shortened postoperative survival.
+hsa-miR-98	let-7	lung cancer	down	Reduced expression of Dicer associated with poor prognosis in lung cancer patients.
+hsa-miR-98	let-7	lung cancer	down	Let-7a elevates p21(WAF1) levels by targeting of NIRF and suppresses the growth of A549 lung cancer cells.
+hsa-miR-99b		lung cancer	down	microRNA-99b acts as a tumor suppressor in non-small cell lung cancer by directly targeting fibroblast growth factor receptor 3.
+hsa-miR-143		lung cancer	up	Stromal expression of miR-143/145 promotes neoangiogenesis in lung cancer development.
+hsa-miR-145		lung cancer	up	Stromal expression of miR-143/145 promotes neoangiogenesis in lung cancer development.
+hsa-miR-93		lung cancer	up	miR-93 promotes TGF-?-induced epithelial-to-mesenchymal transition through downregulation of NEDD4L in lung cancer cells.
+hsa-miR-411		lung cancer	up	miR-411 contributes the cell proliferation of lung cancer by targeting FOXO1.
+hsa-miR-101		lung cancer	down	Micro ribonucleic acid (RNA)-101 inhibits cell proliferation and invasion of lung cancer by regulating cyclooxygenase-2.
+hsa-miR-218		lung cancer	down	ADAM9 enhances CDCP1 protein expression by suppressing miR-218 for lung tumor metastasis.
+hsa-miR-132		lung cancer	down	miR-132 inhibits lung cancer cell migration and invasion by targeting SOX4.
+hsa-miR-564		lung cancer	down	MiR-564 functions as a tumor suppressor in human lung cancer by targeting ZIC3.
+hsa-miR-125b		lung cancer	down	Up-regulation of miR-125b reverses epithelial-mesenchymal transition in paclitaxel-resistant lung cancer cells.
+hsa-miR-137		lung cancer	down	MicroRNA-137 inhibits tumor growth and sensitizes chemosensitivity to paclitaxel and cisplatin in lung cancer.
+hsa-miR-206		lung cancer	down	MiR-206 inhibits HGF-induced epithelial-mesenchymal transition and angiogenesis in non-small cell lung cancer via c-Met /PI3k/ Akt/mTOR pathway.
+hsa-miR-31		lung cancer	up	BAP1 suppresses lung cancer progression and is inhibited by miR-31.
+hsa-miR-133b	mir-133	lung cancer	down	Expression of microRNA-133 inhibits epithelial-mesenchymal transition in lung cancer cells by directly targeting FOXQ1.
+hsa-miR-7		lung cancer	down	Promoter mutation of tumor suppressor microRNA-7 is associated with poor prognosis of lung cancer.
+hsa-miR-208a		lung cancer	up	Radiation-induced miR-208a increases the proliferation and radioresistance by targeting p21 in human lung cancer cells.
+hsa-miR-26b		lung cancer	down	MiR-26b suppresses tumor cell proliferation, migration and invasion by directly targeting COX-2 in lung cancer.
+hsa-miR-140-3p		lung cancer	down	MicroRNA-140-3p inhibits proliferation, migration and invasion of lung cancer cells by targeting ATP6AP2.
+hsa-miR-148b		lung cancer	down	Restoration of BRG1 inhibits proliferation and metastasis of lung cancer by regulating tumor suppressor miR-148b.
+hsa-miR-101		lung cancer	down	The miR-101/RUNX1 feedback regulatory loop modulates chemo-sensitivity and invasion in human lung cancer.
+hsa-miR-326		lung cancer	down	MiR-326 regulates cell proliferation and migration in lung cancer by targeting phox2a and is regulated by HOTAIR.
+hsa-miR-937		lung cancer	up	miR-937 contributes to the lung cancer cell proliferation by targeting INPP4B.
+hsa-miR-302b		lung cancer	down	Exosomes-Derived MiR-302b Suppresses Lung Cancer Cell Proliferation and Migration via TGF?RII Inhibition.
+hsa-miR-186		lung cancer	down	MicroRNA-186 suppresses cell proliferation and metastasis through targeting MAP3K2 in non-small cell lung cancer.
+hsa-miR-214		lung cancer	down	microRNA-214 Governs Lung Cancer Growth and Metastasis by Targeting Carboxypeptidase-D.
+hsa-miR-29a		lung cancer	down	Regulation of LOXL2 and SERPINH1 by antitumor microRNA-29a in lung cancer with idiopathic pulmonary fibrosis.
+hsa-miR-130b		lung cancer	up	MicroRNA-130b promotes lung cancer progression via PPAR?/VEGF-A/BCL-2-mediated suppression of apoptosis.
+hsa-miR-301b		lung cancer	up	Hypoxia-induced microRNA-301b regulates apoptosis by targeting Bim in lung cancer.
+hsa-miR-202		lung cancer	down	MicroRNA-202 induces cell cycle arrest and apoptosis in lung cancer cells through targeting cyclin D1.
+hsa-miR-22		lung cancer	down	miR-22 inhibits tumor growth and metastasis by targeting ATP citrate lyase: evidence in osteosarcoma, prostate cancer, cervical cancer and lung cancer.
+hsa-miR-144		lung cancer	down	Downregulating microRNA-144 mediates a metabolic shift in lung cancer cells by regulating GLUT1 expression.
+hsa-miR-1246		lung cancer	up	Extracellular miR-1246 promotes lung cancer cell proliferation and enhances radioresistance by directly targeting DR5.
+hsa-miR-1207-5p		lung cancer	down	miR-1207-5p suppresses lung cancer growth and metastasis by targeting CSF1.
+hsa-miR-196a		lung cancer	up	Analysis of miRNA profiles identified miR-196a as a crucial mediator of aberrant PI3K/AKT signaling in lung cancer cells.
+hsa-miR-127		lung cancer	up	miR-127 promotes EMT and stem-like traits in lung cancer through a feed-forward regulatory loop.
+hsa-miR-383		lung cancer	down	MicroRNA-383 is a tumor suppressor in human lung cancer by targeting endothelial PAS domain-containing protein 1.
+hsa-miR-490-3p		lung cancer	up	MicroRNA-490 regulates lung cancer metastasis by targeting poly r(C)-binding protein 1.
+hsa-miR-223		lung cancer	up	MicroRNA-223 Promotes Tumor Progression in Lung Cancer A549 Cells via Activation of the NF-?B Signaling Pathway.
+hsa-miR-218		lung cancer	down	Downregulation of miR-218 contributes to epithelial-mesenchymal transition and tumor metastasis in lung cancer by targeting Slug/ZEB2 signaling.
+hsa-miR-129-5p		lung cancer	down	miRNA-129-5p suppresses cell proliferation and invasion in lung cancer by targeting microspherule protein 1, E-cadherin and vimentin.
+hsa-miR-96		lung cancer	up	Circulating exosomal microRNA-96 promotes cell proliferation, migration and drug resistance by targeting LMO7.
+hsa-miR-145		lung cancer	down	Interaction of lincRNA ROR and p53/miR-145 correlates with lung cancer stem cell signatures.
+hsa-miR-128		lung cancer	down	MicroRNA-128 promotes apoptosis in lung cancer by directly targeting NIMA-related kinase 2.
+hsa-miR-138		lung cancer	down	miR-138 suppresses the proliferation, metastasis and autophagy of non-small cell lung cancer by targeting Sirt1.
+hsa-miR-361-5p		lung cancer	down	miR-361-5p suppresses lung cancer cell lines progression by targeting FOXM1.
+hsa-miR-18a-5p		lung cancer	up	MicroRNA-18a-5p functions as an oncogene by directly targeting IRF2 in lung cancer.
+hsa-miR-218		lung cancer	down	Inhibition of pulmonary carcinoma proliferation or metastasis of miR-218 via down-regulating CDCP1 expression.
+hsa-miR-27a		lung cancer	up	MIR-27a regulates the TGF-? signaling pathway by targeting SMAD2 and SMAD4 in lung cancer.
+hsa-miR-22		lung cancer	down	MiR-22 inhibits lung cancer cell EMT and invasion through targeting Snail.
+hsa-miR-33a		lung cancer	down	miR-33a inhibits cell proliferation and invasion by targeting CAND1 in lung cancer.
+hsa-miR-26b		lung cancer	down	[MiR-26b regulates invasion and migration of lung cancer cells through targeting hENT1 depending on RhoA/ROCK-1 pathway].
+hsa-miR-218		lung cancer	down	MicroRNA-218 functions as a tumor suppressor in lung cancer by targeting IL-6/STAT3 and negatively correlates with poor prognosis.
+hsa-miR-641		lung cancer	down	MiR-641 Functions as a Tumor Suppressor by Targeting MDM2 in Human Lung Cancer.
+hsa-miR-449a		lung cancer	down	MiR-449a Suppresses LDHA-Mediated Glycolysis to Enhance the Sensitivity of Non-Small Cell Lung Cancer Cells to Ionizing Radiation.
+hsa-miR-503-3p		lung cancer	down	miR-503-3p induces apoptosis of lung cancer cells by regulating p21 and CDK4 expression.
+hsa-miR-125a-5p		lung cancer	down	MicroRNA-125a-5p plays a role as a tumor suppressor in lung carcinoma cells by directly targeting STAT3.
+hsa-miR-137		lung cancer	up	Upregulation of microRNA-137 expression by Slug promotes tumor invasion and metastasis of non-small cell lung cancer cells through suppression of TFAP2C.
+hsa-miR-1254		lung cancer	up	miR-1254 promotes lung cancer cell proliferation by targeting SFRP1.
+hsa-miR-32		lung cancer	down	Inhibition of miR-32 activity promoted EMT induced by PM2.5 exposure through the modulation of the Smad1-mediated signaling pathways in lung cancer cells.
+hsa-miR-24-3p		lung cancer	up	miR-24-3p promotes cell migration and proliferation in lung cancer by targeting SOX7.
+hsa-miR-1246		lung cancer	down	MicroRNA-1246 inhibits cell invasion and epithelial mesenchymal transition process by targeting CXCR4 in lung cancer cells.
+hsa-miR-29b		lung cancer	down	ARHGEF19 interacts with BRAF to activate MAPK signaling during the tumorigenesis of non-small cell lung cancer.
+hsa-miR-5100		lung cancer	up	MiR-5100 increases the cisplatin resistance of the lung cancer stem cells by inhibiting the Rab6.
+hsa-miR-186		lung cancer	down	MicroRNA-186 suppresses lung cancer progression by targeting SIRT6.
+hsa-miR-4326		lung cancer	up	miR-4326 promotes lung cancer cell proliferation through targeting tumor suppressor APC2.
+hsa-miR-29a		lung cancer	down	MicroRNA-29a Functions as a Tumor Suppressor and Increases Cisplatin Sensitivity by Targeting NRAS in Lung Cancer.
+hsa-miR-30a		lung cancer	down	miR-30a suppresses lung cancer progression by targeting SIRT1.
+hsa-miR-122-3p		lung cancer	down	MicroRNA-122-3p inhibits tumor cell proliferation and induces apoptosis by targeting Forkhead box O in A549 cells.
+hsa-miR-544a		lung cancer	up	TINCR suppresses proliferation and invasion through regulating miR-544a/FBXW7 axis in lung cancer.
+hsa-miR-103a		lung cancer	up	Hypoxic Lung-Cancer-Derived Extracellular Vesicle MicroRNA-103a Increases the Oncogenic Effects of Macrophages by Targeting PTEN.
+hsa-miR-19b-3p		lung cancer	up	miR-19 in blood plasma reflects lung cancer occurrence but is not specifically associated with radon exposure.
+hsa-miR-373		lung cancer	up	Down-regulation of miR-373 increases the radiosensitivity of lung cancer cells by targeting TIMP2.
+hsa-miR-143		lung cancer	down	Effects of miR-143 overexpression on proliferation, apoptosis, EGFR and downstream signaling pathways in PC9/GR cell line.
+hsa-miR-1269		lung cancer	up	miR-1269 promotes cell survival and proliferation by targeting tp53 and caspase-9 in lung cancer.
+hsa-miR-330-3p		lung cancer	up	miR-330-3p promotes lung cancer cells invasion, migration, and metastasis by directly targeting hSOD2b.
+hsa-miR-362		lung cancer	up	Aberrant Expression of miR-362 Promotes Lung Cancer Metastasis through Downregulation of Sema3A.
+hsa-miR-495		lung cancer	down	The miR 495-UBE2C-ABCG2/ERCC1 axis reverses cisplatin resistance by downregulating drug resistance genes in cisplatin-resistant non-small cell lung cancer cells.
+hsa-miR-1		lung cancer	down	Down-regulation of micro-RNA-1 (miR-1) in lung cancer. Suppression of tumorigenic property of lung cancer cells and their sensitization to doxorubicin-induced apoptosis by miR-1.
+hsa-miR-520b		lung cancer	down	MiR-520b restrains cell growth by targeting HDAC4 in lung cancer.
+hsa-miR-506		lung cancer	down	Multipronged activity of combinatorial miR-143 and miR-506 inhibits Lung Cancer cell cycle progression and angiogenesis in vitro.
+hsa-miR-143		lung cancer	down	Multipronged activity of combinatorial miR-143 and miR-506 inhibits Lung Cancer cell cycle progression and angiogenesis in vitro.
+hsa-miR-503		lung cancer	down	CircRNA circ-BANP-mediated miR-503/LARP1 signaling contributes to lung cancer progression.
+hsa-miR-196b		lung cancer	up	miR-196b promotes lung cancer cell migration and invasion through the targeting of GATA6.
+hsa-miR-203		lung cancer	down	[miR-203 inhibits lung cancer cell metastasis by targeting fatty acid binding protein 4].
+hsa-miR-138		lung cancer	down	TGF?1-induced down-regulation of microRNA-138 contributes to epithelial-mesenchymal transition in primary lung cancer cells.
+hsa-miR-181b		lung cancer	down	microRNA-181b suppresses the metastasis of lung cancer cells by targeting sex determining region Y-related high mobility group-box 6 (Sox6).
+hsa-miR-183-5p		lung cancer	down	miR-183-5p functions as a tumor suppressor in lung cancer through PIK3CA inhibition.
+hsa-miR-377-5p		lung cancer	down	miR-377-5p inhibits lung cancer cell proliferation, invasion, and cell cycle progression by targeting AKT1 signaling.
+hsa-miR-3666		lung cancer	down	MicroRNA-3666 inhibits lung cancer cell proliferation, migration, and invasiveness by targeting BPTF.
+hsa-miR-128-3p		lung cancer	down	A two-miRNA signature (miR-33a-5p and miR-128-3p) in whole blood as potential biomarker for early diagnosis of lung cancer.
+hsa-miR-33a-5p		lung cancer	down	A two-miRNA signature (miR-33a-5p and miR-128-3p) in whole blood as potential biomarker for early diagnosis of lung cancer.
+hsa-miR-93		lung cancer	up	Molecular mechanism and role of microRNA-93 in human cancers: A study based on bioinformatics analysis, meta-analysis, and quantitative polymerase chain reaction validation.
+hsa-miR-124		lung cancer	down	Circular RNA HIPK3 exerts oncogenic properties through suppression of miR-124 in lung cancer.
+hsa-miR-182		lung cancer	up	MiR-182 enhances radioresistance in non-small cell lung cancer cells by regulating FOXO3.
+hsa-miR-4301		lung cancer	down	An Inventive Report of Inducing Apoptosis in Non-Small Cell Lung Cancer (NSCLC) Cell Lines by Transfection of MiR-4301.
+hsa-miR-135a-5p		lung cancer	up	Downregulation of lysyl oxidase-like 4 LOXL4 by miR-135a-5p promotes lung cancer progression in vitro and in vivo.
+hsa-miR-708		lung cancer	up	Relevance function of microRNA-708 in the pathogenesis of cancer.
+hsa-miR-378		lung cancer	up	Circular RNA hsa_circ_0007059 restrains proliferation and epithelial-mesenchymal transition in lung cancer cells via inhibiting microRNA-378.
+hsa-miR-520f		lung cancer	down	MiR-520f acts as a biomarker for the diagnosis of lung cancer.
+hsa-miR-939-3p		lung cancer	up	Overexpression of miR-939-3p predicts poor prognosis and promotes progression in lung cancer.
+hsa-miR-660		lung cancer	down	Coated cationic lipid-nanoparticles entrapping miR-660 inhibit tumor growth in patient-derived xenografts lung cancer models.
+hsa-miR-1307-3p		lung cancer	up	MicroRNA-1307-3p promotes lung cancer cell proliferation by targeting EGFR.
+hsa-miR-129-5p		lung cancer	down	Tumor suppressor function of miR-129-5p in lung cancer.
+hsa-miR-10a		lung cancer	up	miRNA-10a promotes cancer cell proliferation in oral squamous cell carcinoma by upregulating GLUT1 and promoting glucose metabolism.
+hsa-miR-423-3p		lung cancer	up	Overexpression of microRNA-423-3p indicates poor prognosis and promotes cell proliferation, migration, and invasion of lung cancer.
+hsa-miR-146a		lung cancer	down	miR-146a and miR-196a-2 genes polymorphisms and its circulating levels in lung cancer patients.
+hsa-miR-125b		lung cancer	up	Genetic variations in miR-125 family and the survival of non-small cell lung cancer in Chinese population.
+hsa-miR-1236-3p		lung cancer	down	microRNA-1236-3p Regulates DDP Resistance in Lung Cancer Cells.
+hsa-miR-600		lung cancer	down	miR-600 inhibits lung cancer via downregulating the expression of METTL3.
+hsa-miR-544a		lung cancer	down	LEF1-AS1 contributes to proliferation and invasion through regulating miR-544a/ FOXP1 axis in lung cancer.
+hsa-miR-431		lung cancer	down	MiR-431 suppresses proliferation and metastasis of lung cancer via down-regulating DDX5.
+hsa-miR-210		lung cancer	up	miR-210 promotes lung adenocarcinoma proliferation, migration, and invasion by targeting lysyl oxidase-like 4.
+hsa-miR-203		lung carcinoma	down	miR-203 Inhibits Frizzled-2 Expression via CD82/KAI1 Expression in Human Lung Carcinoma Cells.
+hsa-miR-1244		lung carcinoma	down	miR-1244/Myocyte Enhancer Factor 2D Regulatory Loop Contributes to the Growth of Lung Carcinoma.
+hsa-miR-31		lung carcinoma	down	MiR-31 Functions as a Tumor Suppressor in Lung Adenocarcinoma Mainly by Targeting HuR.
+hsa-miR-204		lung carcinoma	down	miR-204 suppresses non-small-cell lung carcinoma (NSCLC) invasion and migration by targeting JAK2.
+hsa-miR-30e		lung carcinoma	down	MicroRNA-30e reduces cell growth and enhances drug sensitivity to gefitinib in lung carcinoma.
+hsa-miR-24		lung carcinoma	up	MiR-24 promotes the proliferation and apoptosis of lung carcinoma via targeting MAPK7.
+hsa-miR-23b		lung carcinoma	down	miR-23b suppresses lung carcinoma cell proliferation through CCNG1.
+hsa-miR-126		small cell lung cancer	down	miR-126 inhibits proliferation of small cell lung cancer cells by targeting SLC7A5.
+hsa-miR-138		small cell lung cancer	down	MicroRNA-138 Regulates DNA Damage Response in Small Cell Lung Cancer Cells by Directly Targeting H2AX.
+hsa-miR-25		small cell lung cancer	up	MicroRNA-25 regulates small cell lung cancer cell development and cell cycle through cyclin E2.
+hsa-miR-27a		small cell lung cancer	down	miR-27a regulates the self renewal of the H446 small cell lung cancer cell line in vitro.
+hsa-miR-520a-3p		small cell lung cancer	down	microRNA-520a-3p inhibits proliferation and cancer stem cell phenotype by targeting HOXD8 in non-small cell lung cancer.
+hsa-miR-216a-5p		small cell lung cancer	down	miR-216a-5p inhibits malignant progression in small cell lung cancer: involvement of the Bcl-2 family proteins.
+hsa-miR-26b		small cell lung cancer	down	MicroRNA-26b suppresses tumorigenicity and promotes apoptosis in small cell lung cancer cells by targeting myeloid cell leukemia 1 protein.
+hsa-miR-886-3p		small cell lung cancer	down	MicroRNA-886-3P functions as a tumor suppressor in small cell lung cancer.
+hsa-let-7a		non-small cell lung cancer	down	Circulating micro-RNA expression profiles in early stage nonsmall cell lung cancer.
+hsa-let-7c		non-small cell lung cancer	down	MicroRNA let-7c inhibits migration and invasion of human non-small cell lung cancer by targeting ITGB3 and MAP4K3.
+hsa-miR-1		non-small cell lung cancer	down	MiR-1 targets PIK3CA and inhibits tumorigenic properties of A549 cells.
+hsa-miR-100		non-small cell lung cancer	down	MicroRNA-100 is a potential molecular marker of non-small cell lung cancer and functions as a tumor suppressor by targeting polo-like kinase 1.
+hsa-miR-100		non-small cell lung cancer	down	Overexpression of miR-100 inhibits cancer growth, migration, and chemosensitivity in human NSCLC cells through fibroblast growth factor receptor 3.
+hsa-miR-101		non-small cell lung cancer	down	MicroRNA-101 exerts tumor-suppressive functions in non-small cell lung cancer through directly targeting enhancer of zeste homolog 2.
+hsa-miR-101		non-small cell lung cancer	down	MiR-101 and Mcl-1 in non-small-cell lung cancer: expression profile and clinical significance.
+hsa-miR-106a		non-small cell lung cancer	down	Circulating micro-RNA expression profiles in early stage nonsmall cell lung cancer.
+hsa-miR-107		non-small cell lung cancer	down	Clinicopathological and prognostic significance of microRNA-107 in human non small cell lung cancer.
+hsa-miR-10a		non-small cell lung cancer	up	MiRNA-10a is upregulated in NSCLC and may promote cancer by targeting PTEN.
+hsa-miR-10b		non-small cell lung cancer	up	MicroRNA-10b indicates a poor prognosis of non-small cell lung cancer and targets E-cadherin.
+hsa-miR-10b		non-small cell lung cancer	up	microRNA miR-10b inhibition reduces cell proliferation and promotes apoptosis in non-small cell lung cancer (NSCLC) cells.
+hsa-miR-1238		non-small cell lung cancer	down	miR-1238 inhibits cell proliferation by targeting LHX2 in non-small cell lung cancer.
+hsa-miR-124		non-small cell lung cancer	down	miRNA-124 down-regulates SOX8 expression and suppresses cell proliferation in non-small cell lung cancer.
+hsa-miR-124		non-small cell lung cancer	down	miRNA-124 down-regulates SOX8 expression and suppresses cell proliferation in non-small cell lung cancer.
+hsa-miR-124		non-small cell lung cancer	down	Down-regulation of microRNA-124 is correlated with tumor metastasis and poor prognosis in patients with lung cancer.
+hsa-miR-125a-3p		non-small cell lung cancer	down	Hsa-miR-125a-3p and hsa-miR-125a-5p are downregulated in non-small cell lung cancer and have inverse effects on invasion and migration of lung cancer cells.
+hsa-miR-125a-3p		non-small cell lung cancer	down	miR-125a-3p targets MTA1 to suppress NSCLC cell proliferation, migration, and invasion.
+hsa-miR-125a-5p		non-small cell lung cancer	down	Hsa-miR-125a-3p and hsa-miR-125a-5p are downregulated in non-small cell lung cancer and have inverse effects on invasion and migration of lung cancer cells.
+hsa-miR-125a-5p		non-small cell lung cancer	up	Serum miR-125a-5p, miR-145 and miR-146a as diagnostic biomarkers in non-small cell lung cancer.
+hsa-miR-126		non-small cell lung cancer	down	miR-126 inhibits non-small cell lung cancer cells proliferation by targeting EGFL7.
+hsa-miR-126		non-small cell lung cancer	down	miR-126 enhances the sensitivity of non-small cell lung cancer cells to anticancer agents by targeting vascular endothelial growth factor A.
+hsa-miR-126		non-small cell lung cancer	down	MicroRNA-126 inhibits tumor cell growth and its expression level correlates with poor survival in non-small cell lung cancer patients.
+hsa-miR-126		non-small cell lung cancer	down	Use of Luminex xMAP bead-based suspension array for detecting microRNA in NSCLC tissues and its clinical application.
+hsa-miR-126		non-small cell lung cancer	down	Expression of microRNA miR-126 and miR-200c is associated with prognosis in patients with non-small cell lung cancer.
+hsa-miR-126*		non-small cell lung cancer	down	Clinical evaluation of microRNA expression profiling in non small cell lung cancer.
+hsa-miR-1280		non-small cell lung cancer	up	Upregulation of MiR-1280 Expression in Non-small Cell Lung Cancer Tissues.
+hsa-miR-129		non-small cell lung cancer	down	MiR-129 regulates MMP9 to control metastasis of non-small cell lung cancer.
+hsa-miR-133a		non-small cell lung cancer	down	MiR-133a is downregulated in non-small cell lung cancer: a study of clinical significance.
+hsa-miR-136		non-small cell lung cancer	up	Upregulation of miR-136 in human non-small cell lung cancer cells promotes Erk1/2 activation by targeting PPP2R2A.
+hsa-miR-137		non-small cell lung cancer	down	microRNA-137 functions as a tumor suppressor in human non-small cell lung cancer by targeting SLC22A18.
+hsa-miR-138		non-small cell lung cancer	down	MiR-138 Inhibits Tumor Growth Through Repression of EZH2 in Non-Small Cell Lung Cancer.
+hsa-miR-138		non-small cell lung cancer	down	miR-138 inhibits proliferation by targeting 3-phosphoinositide-dependent protein kinase-1 in non-small cell lung cancer cells.
+hsa-miR-138		non-small cell lung cancer	down	Prognostic potential of microRNA-138 and its target mRNA PDK1 in sera for patients with non-small cell lung cancer.
+hsa-miR-138		non-small cell lung cancer	up	MicroRNA-138 negatively regulates non-small cell lung cancer cells through the interaction with cyclin D3.
+hsa-miR-138		non-small cell lung cancer	down	MiR-138 inhibits cell proliferation and reverses epithelial-mesenchymal transition in non-small cell lung cancer cells by targeting GIT1 and SEMA4C.
+hsa-miR-139		non-small cell lung cancer	down	Histone methylation-mediated silencing of miR-139 enhances invasion of non-small-cell lung cancer.
+hsa-miR-139-5p		non-small cell lung cancer	down	MicroRNA-139-5p inhibits cell proliferation and invasion by targeting insulin-like growth factor 1 receptor in human non-small cell lung cancer.
+hsa-miR-140		non-small cell lung cancer	up	Peripheral Blood miR-328 Expression as a Potential Biomarker for the Early Diagnosis of NSCLC.
+hsa-miR-140		non-small cell lung cancer	down	miR-140 Suppresses Tumor Growth and Metastasis of Non-Small Cell Lung Cancer by Targeting Insulin-Like Growth Factor 1 Receptor.
+hsa-miR-141		non-small cell lung cancer	up	High expression of serum miR-21 and tumor miR-200c associated with poor prognosis in patients with lung cancer.
+hsa-miR-141		non-small cell lung cancer	up	MicroRNA-141 promotes the proliferation of non-small cell lung cancer cells by regulating expression of PHLPP1 and PHLPP2.
+hsa-miR-141		non-small cell lung cancer	up	MicroRNA-141 is a biomarker for progression of squamous cell carcinoma and adenocarcinoma of the lung: clinical analysis of 125 patients.
+hsa-miR-142-3p		non-small cell lung cancer	up	MiR-142-3p represses TGF-?-induced growth inhibition through repression of TGF?R1 in non-small cell lung cancer.
+hsa-miR-143		non-small cell lung cancer	down	miR-143 inhibits NSCLC cell growth and metastasis by targeting Limk1.
+hsa-miR-143		non-small cell lung cancer	down	miR-143 inhibits cell proliferation by targeting autophagy-related 2B in non-small cell lung cancer H1299 cells.
+hsa-miR-145		non-small cell lung cancer	down	miRNA-145 inhibits non-small cell lung cancer cell proliferation by targeting c-Myc.
+hsa-miR-145		non-small cell lung cancer	down	Use of Luminex xMAP bead-based suspension array for detecting microRNA in NSCLC tissues and its clinical application.
+hsa-miR-145		non-small cell lung cancer	down	MiR-145 acts as a metastasis suppressor by targeting metadherin in lung cancer.
+hsa-miR-145		non-small cell lung cancer	down	Low miR-145 expression level is associated with poor pathological differentiation and poor prognosis in non-small cell lung cancer.
+hsa-miR-145		non-small cell lung cancer	up	Serum miR-125a-5p, miR-145 and miR-146a as diagnostic biomarkers in non-small cell lung cancer.
+hsa-miR-145		non-small cell lung cancer	down	Low miR-145 silenced by DNA methylation promotes NSCLC cell proliferation, migration and invasion by targeting mucin 1.
+hsa-miR-145		non-small cell lung cancer	down	MicroRNA-145 inhibits migration and invasion via inhibition of fascin 1 protein expression in non-small-cell lung cancer cells.
+hsa-miR-146a		non-small cell lung cancer	down	miR-146a inhibits cell growth, cell migration and induces apoptosis in non-small cell lung cancer cells.
+hsa-miR-146a		non-small cell lung cancer	down	MicroRNA-146a rs2910164 polymorphism is associated with susceptibility to non-small cell lung cancer in the Chinese population.
+hsa-miR-146a		non-small cell lung cancer	up	Serum miR-125a-5p, miR-145 and miR-146a as diagnostic biomarkers in non-small cell lung cancer.
+hsa-miR-146a		non-small cell lung cancer	down	MicroRNA-146a inhibits epithelial mesenchymal transition in non-small cell lung cancer by targeting insulin receptor substrate 2.
+hsa-miR-146b		non-small cell lung cancer	down	Circulating micro-RNA expression profiles in early stage nonsmall cell lung cancer.
+hsa-miR-148a		non-small cell lung cancer	down	MicroRNA-148a suppresses epithelial-to-mesenchymal transition by targeting ROCK1 in non-small cell lung cancer cells.
+hsa-miR-148a		non-small cell lung cancer	down	Decreased miRNA-148a is associated with lymph node metastasis and poor clinical outcomes and functions as a suppressor of tumor metastasis in non-small cell lung cancer.
+hsa-miR-148a		non-small cell lung cancer	down	Serum miR-152, miR-148a, miR-148b, and miR-21 as novel biomarkers in non-small cell lung cancer screening.
+hsa-miR-148a		non-small cell lung cancer	down	MicroRNA-148a reduces tumorigenesis and increases TRAIL-induced apoptosis in NSCLC.
+hsa-miR-148b		non-small cell lung cancer	down	miR-148b functions as a tumor suppressor in non-small cell lung cancer by targeting carcinoembryonic antigen (CEA).
+hsa-miR-148b		non-small cell lung cancer	down	Serum miR-152, miR-148a, miR-148b, and miR-21 as novel biomarkers in non-small cell lung cancer screening.
+hsa-miR-148b		non-small cell lung cancer	down	MicroRNA-148b is down-regulated in non-small cell lung cancer and associated with poor survival.
+hsa-miR-149		non-small cell lung cancer	down	miR-149 Inhibits Non-Small-Cell Lung Cancer Cells EMT by Targeting FOXM1.
+hsa-miR-150		non-small cell lung cancer	up	Increased expression of microRNA-150 is associated with poor prognosis in non-small cell lung cancer.
+hsa-miR-152		non-small cell lung cancer	down	MicroRNA-152 targets ADAM17 to suppress NSCLC progression.
+hsa-miR-152		non-small cell lung cancer	down	Serum miR-152, miR-148a, miR-148b, and miR-21 as novel biomarkers in non-small cell lung cancer screening.
+hsa-miR-153		non-small cell lung cancer	down	MiR-153 inhibits migration and invasion of human non-small-cell lung cancer by targeting ADAM19.
+hsa-miR-154		non-small cell lung cancer	down	miR-154 suppresses non-small cell lung cancer growth in vitro and in vivo.
+hsa-miR-155		non-small cell lung cancer	down	Circulating micro-RNA expression profiles in early stage nonsmall cell lung cancer.
+hsa-miR-15a		non-small cell lung cancer	down	MicroRNA-15a induces cell apoptosis and inhibits metastasis by targeting BCL2L2 in non-small cell lung cancer.
+hsa-miR-16		non-small cell lung cancer	down	Downregulation of miR-16 promotes growth and motility by targeting HDGF in non-small cell lung cancer cells.
+hsa-miR-17-5p		non-small cell lung cancer	down	Circulating micro-RNA expression profiles in early stage nonsmall cell lung cancer.
+hsa-miR-181a-5p		non-small cell lung cancer	down	MiR-181a-5p inhibits cell proliferation and migration by targeting Kras in non-small cell lung cancer A549 cells.
+hsa-miR-181b		non-small cell lung cancer	down	Down-regulation of microRNA-181b is a potential prognostic marker of non-small cell lung cancer.
+hsa-miR-181c	mir-181	non-small cell lung cancer	down	MicroRNA-181 functions as a tumor suppressor in non-small cell lung cancer (NSCLC) by targeting Bcl-2.
+hsa-miR-181d	mir-181	non-small cell lung cancer	down	MicroRNA-181 functions as a tumor suppressor in non-small cell lung cancer (NSCLC) by targeting Bcl-2.
+hsa-miR-184		non-small cell lung cancer	down	MicroRNA-184 Deregulated by the MicroRNA-21 Promotes Tumor Malignancy and Poor Outcomes in Non-small Cell Lung Cancer via Targeting CDC25A and c-Myc.
+hsa-miR-186		non-small cell lung cancer	down	miR-186 downregulation correlates with poor survival in lung adenocarcinoma, where it interferes with cell-cycle regulation.
+hsa-miR-186		non-small cell lung cancer	down	MiR-186 targets ROCK1 to suppress the growth and metastasis of NSCLC cells.
+hsa-miR-18a		non-small cell lung cancer	up	Peripheral Blood miR-328 Expression as a Potential Biomarker for the Early Diagnosis of NSCLC.
+hsa-miR-193a-3p		non-small cell lung cancer	down	Expression and clinicopathological significance of miR-193a-3p and its potential target astrocyte elevated gene-1 in non-small lung cancer tissues.
+hsa-miR-193b		non-small cell lung cancer	down	MicroRNA-193b modulates proliferation, migration, and invasion of non-small cell lung cancer cells.
+hsa-miR-195		non-small cell lung cancer	down	MicroRNA-195 inhibits non-small cell lung cancer cell proliferation, migration and invasion by targeting MYB.
+hsa-miR-195		non-small cell lung cancer	down	miR-195 inhibits the growth and metastasis of NSCLC cells by targeting IGF1R.
+hsa-miR-195		non-small cell lung cancer	down	MiR-195 suppresses non-small cell lung cancer by targeting CHEK1.
+hsa-miR-196a		non-small cell lung cancer	up	MicroRNA-196a promotes non-small cell lung cancer cell proliferation and invasion through targeting HOXA5.
+hsa-miR-199a		non-small cell lung cancer	down	MiR-199a suppresses the hypoxia-induced proliferation of non-small cell lung cancer cells through targeting HIF1?
+hsa-miR-19a		non-small cell lung cancer	up	Serum miR-19a expression correlates with worse prognosis of patients with non-small cell lung cancer.
+hsa-miR-200a		non-small cell lung cancer	up	MiR-200a enhances the migrations of A549 and SK-MES-1 cells by regulating the expression of TSPAN1.
+hsa-miR-200c		non-small cell lung cancer	up	High expression of serum miR-21 and tumor miR-200c associated with poor prognosis in patients with lung cancer.
+hsa-miR-200c		non-small cell lung cancer	up	Expression of microRNA miR-126 and miR-200c is associated with prognosis in patients with non-small cell lung cancer.
+hsa-miR-203		non-small cell lung cancer	down	MicroRNA-203 inhibits cellular proliferation and invasion by targeting Bmi1 in non-small cell lung cancer.
+hsa-miR-204		non-small cell lung cancer	down	miR-204 functions as a tumor suppressor by regulating SIX1 in NSCLC.
+hsa-miR-204		non-small cell lung cancer	down	MiR-204 inhibits human NSCLC metastasis through suppression of NUAK1.
+hsa-miR-205		non-small cell lung cancer	up	Prognostic value of mature microRNA-21 and microRNA-205 overexpression in non-small cell lung cancer by quantitative real-time RT-PCR.
+hsa-miR-205		non-small cell lung cancer	up	miR-205 promotes the growth, metastasis and chemoresistance of NSCLC cells by targeting PTEN.
+hsa-miR-205-3p		non-small cell lung cancer	up	Relative expressions of miR-205-5p, miR-205-3p, and miR-21 in tissues and serum of non-small cell lung cancer patients.
+hsa-miR-205-5p		non-small cell lung cancer	up	Relative expressions of miR-205-5p, miR-205-3p, and miR-21 in tissues and serum of non-small cell lung cancer patients.
+hsa-miR-206		non-small cell lung cancer	down	miR-206 inhibits non small cell lung cancer cell proliferation and invasion by targeting SOX9.
+hsa-miR-21		non-small cell lung cancer	up	Prognostic value of mature microRNA-21 and microRNA-205 overexpression in non-small cell lung cancer by quantitative real-time RT-PCR.
+hsa-miR-21		non-small cell lung cancer	up	High expression of serum miR-21 and tumor miR-200c associated with poor prognosis in patients with lung cancer.
+hsa-miR-21		non-small cell lung cancer	up	Identification of plasma microRNA-21 as a biomarker for early detection and chemosensitivity of non-small cell lung cancer.
+hsa-miR-21		non-small cell lung cancer	up	Prognostic significance of serum miRNA-21 expression in human non-small cell lung cancer.
+hsa-miR-21		non-small cell lung cancer	up	[Overexpression of miR-21 promotes proliferation and reduces apoptosis in non-small cell lung cancer].
+hsa-miR-21		non-small cell lung cancer	up	Use of Luminex xMAP bead-based suspension array for detecting microRNA in NSCLC tissues and its clinical application.
+hsa-miR-21		non-small cell lung cancer	up	Reduction of Plasma MicroRNA-21 is Associated with Chemotherapeutic Response in Patients with Non-small Cell Lung Cancer.
+hsa-miR-21		non-small cell lung cancer	up	Clinical evaluation of microRNA expression profiling in non small cell lung cancer.
+hsa-miR-21		non-small cell lung cancer	up	Overexpression of miRNA-21 promotes radiation-resistance of non-small cell lung cancer.
+hsa-miR-21		non-small cell lung cancer	up	Let-7g and miR-21 expression in non-small cell lung cancer: Correlation with clinicopathological and molecular features.
+hsa-miR-21		non-small cell lung cancer	up	MiR-21 suppresses the anticancer activities of curcumin by targeting PTEN gene in human non-small cell lung cancer A549 cells.
+hsa-miR-21		non-small cell lung cancer	up	Alteration in Mir-21/PTEN expression modulates gefitinib resistance in non-small cell lung cancer.
+hsa-miR-21		non-small cell lung cancer	up	MicroRNA-21 (miR-21) regulates cellular proliferation, invasion, migration, and apoptosis by targeting PTEN, RECK and Bcl-2 in lung squamous carcinoma, Gejiu City, China.
+hsa-miR-21		non-small cell lung cancer	up	Downregulation of microRNA-21 expression restrains non-small cell lung cancer cell proliferation and migration through upregulation of programmed cell death 4.
+hsa-miR-211		non-small cell lung cancer	up	miR-211 promotes non-small cell lung cancer proliferation by targeting SRCIN1.
+hsa-miR-212		non-small cell lung cancer	down	miR-212 increases tumor necrosis factor-related apoptosis-inducing ligand sensitivity in non-small cell lung cancer by targeting the antiapoptotic protein PED.
+hsa-miR-212		non-small cell lung cancer	up	MiR-212 displays Tumor Promoting properties in NSCLC Cells and targets the Hedgehog Pathway Receptor PTCH1.
+hsa-miR-212		non-small cell lung cancer	up	Synaptic acetylcholinesterase targeted by microRNA-212 functions as a tumor suppressor in non-small cell lung cancer.
+hsa-miR-22		non-small cell lung cancer	up	Circulating miR-22, miR-24 and miR-34a as novel predictive biomarkers to pemetrexed-based chemotherapy in advanced non small cell lung cancer.
+hsa-miR-221		non-small cell lung cancer	up	miR-221&222 regulate TRAIL resistance and enhance tumorigenicity through PTEN and TIMP3 downregulation.
+hsa-miR-221		non-small cell lung cancer	down	Circulating micro-RNA expression profiles in early stage nonsmall cell lung cancer.
+hsa-miR-221		non-small cell lung cancer	up	MicroRNA-221 promotes human non-small cell lung cancer cell H460 growth.
+hsa-miR-222		non-small cell lung cancer	up	miR-221&222 regulate TRAIL resistance and enhance tumorigenicity through PTEN and TIMP3 downregulation.
+hsa-miR-222		non-small cell lung cancer	up	Use of Luminex xMAP bead-based suspension array for detecting microRNA in NSCLC tissues and its clinical application.
+hsa-miR-222		non-small cell lung cancer	up	MicroRNA-222 promotes human non-small cell lung cancer H460 growth by targeting p27.
+hsa-miR-224		non-small cell lung cancer	down	Decreased microRNA-224 and its clinical significance in non-small cell lung cancer patients.
+hsa-miR-224		non-small cell lung cancer	up	MicroRNA-224 is implicated in lung cancer pathogenesis through targeting caspase-3 and caspase-7.
+hsa-miR-24		non-small cell lung cancer	up	Circulating miR-22, miR-24 and miR-34a as novel predictive biomarkers to pemetrexed-based chemotherapy in advanced non small cell lung cancer.
+hsa-miR-24		non-small cell lung cancer	up	Upregulation of miR-24 promotes cell proliferation by targeting NAIF1 in non-small cell lung cancer.
+hsa-miR-25		non-small cell lung cancer	up	Downregulation of miR-25 modulates non-small cell lung cancer cells by targeting CDC42.
+hsa-miR-25		non-small cell lung cancer	up	miR-25 targets the modulator of apoptosis 1 gene in lung cancer.
+hsa-miR-26b		non-small cell lung cancer	down	Down-regulation of microRNA-26b modulates non-small cell lung cancer cells chemoresistance and migration through the association of PTEN.
+hsa-miR-27a		non-small cell lung cancer	down	Circulating micro-RNA expression profiles in early stage nonsmall cell lung cancer.
+hsa-miR-27b		non-small cell lung cancer	down	MicroRNA-27b suppresses growth and invasion of NSCLC cells by targeting Sp1.
+hsa-miR-29a		non-small cell lung cancer	down	Suppression of Wnt signaling by the miR-29 family is mediated by demethylation of WIF-1 in non-small-cell lung cancer.
+hsa-miR-29b		non-small cell lung cancer	down	Preclinical rationale for combining an EGFR antibody with cisplatin/gemcitabine for the treatment of NSCLC.
+hsa-miR-29b		non-small cell lung cancer	down	Suppression of Wnt signaling by the miR-29 family is mediated by demethylation of WIF-1 in non-small-cell lung cancer.
+hsa-miR-29b		non-small cell lung cancer	down	MicroRNA-29b attenuates non-small cell lung cancer metastasis by targeting matrix metalloproteinase 2 and PTEN.
+hsa-miR-29c		non-small cell lung cancer	up	Circulating micro-RNA expression profiles in early stage nonsmall cell lung cancer.
+hsa-miR-29c		non-small cell lung cancer	down	Suppression of Wnt signaling by the miR-29 family is mediated by demethylation of WIF-1 in non-small-cell lung cancer.
+hsa-miR-29c		non-small cell lung cancer	up	Expression of miR-29c, miR-93, and miR-429 as Potential Biomarkers for Detection of Early Stage Non-Small Lung Cancer.
+hsa-miR-30a		non-small cell lung cancer	down	MicroRNA-30a inhibits epithelial-to-mesenchymal transition by targeting Snai1 and is downregulated in non-small cell lung cancer.
+hsa-miR-30a		non-small cell lung cancer	down	MiR-30a suppresses non-small cell lung cancer progression through AKT signaling pathway by targeting IGF1R.
+hsa-miR-30a		non-small cell lung cancer	down	Downregulation of MiR-30a is Associated with Poor Prognosis in Lung Cancer.
+hsa-miR-30b		non-small cell lung cancer	down	MicroRNA-30b/c inhibits non-small cell lung cancer cell proliferation by targeting Rab18.
+hsa-miR-30c		non-small cell lung cancer	down	Low expression of microRNA-30c promotes invasion by inducing epithelial mesenchymal transition in non-small cell lung cancer.
+hsa-miR-30c		non-small cell lung cancer	down	MicroRNA-30b/c inhibits non-small cell lung cancer cell proliferation by targeting Rab18.
+hsa-miR-30d		non-small cell lung cancer	down	Clinical evaluation of microRNA expression profiling in non small cell lung cancer.
+hsa-miR-30d-5p		non-small cell lung cancer	down	MicroRNA-30d-5p inhibits tumour cell proliferation and motility by directly targeting CCNE2 in non-small cell lung cancer.
+hsa-miR-30e-5p		non-small cell lung cancer	down	Clinical evaluation of microRNA expression profiling in non small cell lung cancer.
+hsa-miR-31		non-small cell lung cancer	up	Use of Luminex xMAP bead-based suspension array for detecting microRNA in NSCLC tissues and its clinical application.
+hsa-miR-32		non-small cell lung cancer	down	Expression of miR-32 in human non-small cell lung cancer and its correlation with tumor progression and patient survival.
+hsa-miR-32		non-small cell lung cancer	down	Tanshinones suppress AURKA through up-regulation of miR-32 expression in non-small cell lung cancer.
+hsa-miR-32		non-small cell lung cancer	down	miR-32 functions as a tumor suppressor and directly targets SOX9 in human non-small cell lung cancer.
+hsa-miR-328		non-small cell lung cancer	up	Peripheral Blood miR-328 Expression as a Potential Biomarker for the Early Diagnosis of NSCLC.
+hsa-miR-330-3p		non-small cell lung cancer	up	miR-330-3p controls cell proliferation by targeting early growth response 2 in non-small-cell lung cancer.
+hsa-miR-335		non-small cell lung cancer	down	Effect of miR-335 upregulation on the apoptosis and invasion of lung cancer cell A549 and H1299.
+hsa-miR-338-3p		non-small cell lung cancer	down	microRNA-338-3p functions as a tumor suppressor in human non?small?cell lung carcinoma and targets Ras-related protein 14.
+hsa-miR-339		non-small cell lung cancer	up	Peripheral Blood miR-328 Expression as a Potential Biomarker for the Early Diagnosis of NSCLC.
+hsa-miR-340		non-small cell lung cancer	down	miR-340 inhibits tumor cell proliferation and induces apoptosis by targeting multiple negative regulators of p27 in non-small cell lung cancer.
+hsa-miR-342-3p		non-small cell lung cancer	down	miR-342-3p targets RAP2B to suppress proliferation and invasion of non-small cell lung cancer cells.
+hsa-miR-34a		non-small cell lung cancer	up	Circulating miR-22, miR-24 and miR-34a as novel predictive biomarkers to pemetrexed-based chemotherapy in advanced non small cell lung cancer.
+hsa-miR-34a		non-small cell lung cancer	down	Restoration of p53/miR-34a regulatory axis decreases survival advantage and ensures Bax-dependent apoptosis of non-small cell lung carcinoma cells.
+hsa-miR-34a		non-small cell lung cancer	down	The microRNA miR-34a Inhibits Non-Small Cell Lung Cancer (NSCLC) Growth and the CD44hi Stem-Like NSCLC Cells.
+hsa-miR-34b		non-small cell lung cancer	down	MicroRNA-34b functions as a tumor suppressor and acts as a nodal point in the feedback loop with Met.
+hsa-miR-34c-3p		non-small cell lung cancer	down	MiR-34c-3p suppresses the proliferation and invasion of non-small cell lung cancer (NSCLC) by inhibiting PAC1/MAPK pathway.
+hsa-miR-361-3p		non-small cell lung cancer	down	Low levels of cell-free circulating miR-361-3p and miR-625* as blood-based markers for discriminating malignant from benign lung tumors.
+hsa-miR-365		non-small cell lung cancer	down	Associations of deregulation of mir-365 and its target mRNA TTF-1 and survival in patients with NSCLC.
+hsa-miR-365		non-small cell lung cancer	down	Serum microRNA-365 in combination with its target gene TTF-1 as a non-invasive prognostic marker for non-small cell lung cancer.
+hsa-miR-370		non-small cell lung cancer	down	MicroRNA-370 inhibits the progression of non-small cell lung cancer by downregulating oncogene TRAF4.
+hsa-miR-373		non-small cell lung cancer	down	Epigenetic silencing of microRNA-373 to epithelial-mesenchymal transition in non-small cell lung cancer through IRAK2 and LAMP1 axes.
+hsa-miR-375		non-small cell lung cancer	down	Decreased expression of microRNA-375 in nonsmall cell lung cancer and its clinical significance.
+hsa-miR-375		non-small cell lung cancer	up	Claudin-1 is a novel target of miR-375 in non-small-cell lung cancer.
+hsa-miR-410		non-small cell lung cancer	up	MicroRNA-410 promotes cell proliferation by targeting BRD7 in non-small cell lung cancer.
+hsa-miR-429		non-small cell lung cancer	down	Expression of miR-29c, miR-93, and miR-429 as Potential Biomarkers for Detection of Early Stage Non-Small Lung Cancer.
+hsa-miR-449a		non-small cell lung cancer	down	MicroRNA-449a Is Downregulated in Non-Small Cell Lung Cancer and Inhibits Migration and Invasion by Targeting c-Met.
+hsa-miR-449a		non-small cell lung cancer	down	microRNA-449a Suppresses Non-small Cell Lung Cancer.
+hsa-miR-4500		non-small cell lung cancer	down	Down-regulation of miR-4500 promoted non-small cell lung cancer growth.
+hsa-miR-451		non-small cell lung cancer	down	MicroRNA-451 functions as a tumor suppressor in human non-small cell lung cancer by targeting ras-related protein 14 (RAB14).
+hsa-miR-451		non-small cell lung cancer	down	The expression and function of miRNA-451 in non-small cell lung cancer.
+hsa-miR-451		non-small cell lung cancer	down	Clinical evaluation of microRNA expression profiling in non small cell lung cancer.
+hsa-miR-4782-3p		non-small cell lung cancer	down	miR-4782-3p Inhibited Non-Small Cell Lung Cancer growth via USP14.
+hsa-miR-494		non-small cell lung cancer	up	Expression and clinical evidence of miR-494 and PTEN in non-small cell lung cancer.
+hsa-miR-494		non-small cell lung cancer	up	Tumor-derived microRNA-494 promotes angiogenesis in non-small cell lung cancer.
+hsa-miR-497		non-small cell lung cancer	down	Downregulation of miR-497 promotes tumor growth and angiogenesis by targeting HDGF in non-small cell lung cancer.
+hsa-miR-497		non-small cell lung cancer	down	MiR-497 Suppresses YAP1 and Inhibits Tumor Growth in Non-Small Cell Lung Cancer.
+hsa-miR-498		non-small cell lung cancer	down	MicroRNA-498 is downregulated in non-small cell lung cancer and correlates with tumor progression.
+hsa-miR-503		non-small cell lung cancer	down	Epigenetic silencing of MicroRNA-503 regulates FANCA expression in non-small cell lung cancer cell.
+hsa-miR-503		non-small cell lung cancer	down	Down-regulation of miR-503 expression predicate advanced mythological features and poor prognosis in patients with NSCLC.
+hsa-miR-512-3p		non-small cell lung cancer	down	Inhibition of RAC1-GEF DOCK3 by miR-512-3p contributes to suppression of metastasis in non-small cell lung cancer.
+hsa-miR-520a-3p		non-small cell lung cancer	down	The microRNA-520a-3p inhibits proliferation, apoptosis and metastasis by targeting MAP3K2 in non-small cell lung cancer.
+hsa-miR-526b		non-small cell lung cancer	down	By downregulating Ku80, hsa-miR-526b suppresses non-small cell lung cancer.
+hsa-miR-625*		non-small cell lung cancer	down	Low levels of cell-free circulating miR-361-3p and miR-625* as blood-based markers for discriminating malignant from benign lung tumors.
+hsa-miR-630		non-small cell lung cancer	down	miR-630 targets LMO3 to regulate cell growth and metastasis in lung cancer.
+hsa-miR-675-5p		non-small cell lung cancer	up	Down-regulation of miR-675-5p contributes to tumor progression and development by targeting pro-tumorigenic GPR55 in non-small cell lung cancer.
+hsa-miR-7		non-small cell lung cancer	down	MicroRNA-7 inhibits the malignant phenotypes of non?small cell lung cancer in vitro by targeting Pax6.
+hsa-miR-761		non-small cell lung cancer	up	MiR-761 Promotes Progression and Metastasis of Non-Small Cell Lung Cancer by Targeting ING4 and TIMP2.
+hsa-miR-9		non-small cell lung cancer	up	Up-regulation of miR-9 expression as a poor prognostic biomarker in patients with non-small cell lung cancer.
+hsa-miR-92b		non-small cell lung cancer	up	MiR-92b regulates the cell growth, cisplatin chemosensitivity of A549 non small cell lung cancer cell line and target PTEN.
+hsa-miR-92b		non-small cell lung cancer	up	Inhibition of miR-92b suppresses nonsmall cell lung cancer cells growth and motility by targeting RECK.
+hsa-miR-93		non-small cell lung cancer	up	Expression of miR-29c, miR-93, and miR-429 as Potential Biomarkers for Detection of Early Stage Non-Small Lung Cancer.
+hsa-miR-95		non-small cell lung cancer	up	MiR-95 induces proliferation and chemo- or radioresistance through directly targeting sorting nexin1 (SNX1) in non-small cell lung cancer.
+hsa-miR-96		non-small cell lung cancer	down	Expression of microRNA-96 and its potential functions by targeting FOXO3 in non-small cell lung cancer.
+hsa-miR-99a		non-small cell lung cancer	down	miR-99a suppresses the metastasis of human non-small cell lung cancer cells by targeting AKT1 signaling pathway.
+hsa-miR-99a		non-small cell lung cancer	down	microRNA-99a is downregulated and promotes proliferation, migration and invasion in non-small cell lung cancer A549 and H1299 cells.
+hsa-miR-1260b		non-small cell lung cancer	up	Overexpression of miR-1260b in Non-small Cell Lung Cancer is Associated with Lymph Node Metastasis.
+hsa-miR-185		non-small cell lung cancer	down	miR-185 acts as a tumor suppressor by targeting AKT1 in non-small cell lung cancer cells.
+hsa-miR-137		non-small cell lung cancer	down	MicroRNA-137 inhibits cell migration and invasion by targeting bone morphogenetic protein-7 (BMP7) in non-small cell lung cancer cells.
+hsa-miR-142-3p		non-small cell lung cancer	down	MiR-142-3p functions as a potential tumor suppressor directly targeting HMGB1 in non-small-cell lung carcinoma.
+hsa-miR-449a		non-small cell lung cancer	down	MiR-449a suppresses cell invasion by inhibiting MAP2K1 in non-small cell lung cancer.
+hsa-miR-9		non-small cell lung cancer	up	Oncogenic miR-9 is a target of erlotinib in NSCLCs.
+hsa-miR-148a		non-small cell lung cancer	down	MicroRNA-148a Suppresses Invasion and Metastasis of Human Non-Small-Cell Lung Cancer.
+hsa-miR-147		non-small cell lung cancer	down	Serum level of microRNA-147 as diagnostic biomarker in human non-small cell lung caner.
+hsa-miR-23a		non-small cell lung cancer	up	Clinical value of microRNA-23a upregulation in non-small cell lung cancer.
+hsa-miR-155		non-small cell lung cancer	up	Critical role of miR-155/FoxO1/ROS axis in the regulation of non-small cell lung carcinomas.
+hsa-miR-1290		non-small cell lung cancer	up	miR-1290 is a potential prognostic biomarker in non-small cell lung cancer.
+hsa-miR-150		non-small cell lung cancer	up	Jumonji domain containing 2A predicts prognosis and regulates cell growth in lung cancer depending on miR-150.
+hsa-miR-204		non-small cell lung cancer	down	Decreased expression of miR-204 in plasma is associated with a poor prognosis in patients with non-small cell lung cancer.
+hsa-miR-497		non-small cell lung cancer	down	Role of miR-497 in VEGF-A-mediated cancer cell growth and invasion in non-small cell lung cancer.
+hsa-miR-25		non-small cell lung cancer	up	miR-25 is up-regulated in non-small cell lung cancer and promotes cell proliferation and motility by targeting FBXW7.
+hsa-miR-21		non-small cell lung cancer	up	Up-Regulation of miR-21 Expression Predicate Advanced Clinicopathological Features and Poor Prognosis in Patients with Non-Small Cell Lung Cancer.
+hsa-miR-92a		non-small cell lung cancer	up	MicroRNA-92a promotes growth, metastasis, and chemoresistance in non-small cell lung cancer cells by targeting PTEN.
+hsa-miR-25		non-small cell lung cancer	up	Elevated microRNA-25 inhibits cell apoptosis in lung cancer by targeting RGS3.
+hsa-miR-140-3p		non-small cell lung cancer	down	MiR-140-3p suppressed cell growth and invasion by downregulating the expression of ATP8A1 in non-small cell lung cancer.
+hsa-miR-30b		non-small cell lung cancer	down	microRNA-30b inhibits cell invasion and migration through targeting collagen triple helix repeat containing 1 in non-small cell lung cancer.
+hsa-miR-125b		non-small cell lung cancer	up	MicroRNA-125b promotes tumor metastasis through targeting tumor protein 53-induced nuclear protein 1 in patients with non-small-cell lung cancer.
+hsa-miR-148b		non-small cell lung cancer	down	Down-regulated MicroRNA 148b expression as predictive biomarker and its prognostic significance associated with clinicopathological features in non-small-cell lung cancer patients.
+hsa-miR-452		non-small cell lung cancer	down	Up-Regulation of MiR-452 Inhibits Metastasis of Non-Small Cell Lung Cancer by Regulating BMI1.
+hsa-miR-21		non-small cell lung cancer	up	MicroRNA-21 regulates non-small cell lung cancer cell proliferation by affecting cell apoptosis via COX-19.
+hsa-miR-200a		non-small cell lung cancer	down	MicroRNA-200a Targets EGFR and c-Met to Inhibit Migration, Invasion, and Gefitinib Resistance in Non-Small Cell Lung Cancer.
+hsa-miR-499-5p		non-small cell lung cancer	down	Overexpression of miR-499-5p inhibits non-small cell lung cancer proliferation and metastasis by targeting VAV3.
+hsa-miR-204		non-small cell lung cancer	down	miRNA-204 suppresses human non-small cell lung cancer by targeting ATF2.
+hsa-miR-652-3p		non-small cell lung cancer	up	MiR-652-3p is upregulated in non-small cell lung cancer and promotes proliferation and metastasis by directly targeting Lgl1.
+hsa-miR-194		non-small cell lung cancer	down	MiR-194 inhibits the proliferation, invasion, migration, and enhances the chemosensitivity of non-small cell lung cancer cells by targeting forkhead box A1 protein.
+hsa-miR-329		non-small cell lung cancer	down	Hsa-miR-329 exerts tumor suppressor function through down-regulation of MET in non-small cell lung cancer.
+hsa-miR-96		non-small cell lung cancer	up	miR-96 induces cisplatin chemoresistance in non-small cell lung cancer cells by downregulating SAMD9.
+hsa-miR-345		non-small cell lung cancer	down	Prognostic significance of tissue miR-345 downregulation in non-small cell lung cancer.
+hsa-miR-98		non-small cell lung cancer	down	MiR-98 inhibits cell proliferation and invasion of non-small cell carcinoma lung cancer by targeting PAK1.
+hsa-miR-221		non-small cell lung cancer	up	Overexpression of MicroRNA-221 is associated with poor prognosis in non-small cell lung cancer patients.
+hsa-miR-26b		non-small cell lung cancer	down	MicroRNA-26b suppresses the metastasis of non-small cell lung cancer by targeting MIEN1 via NF-?B/MMP-9/VEGF pathways.
+hsa-miR-126		non-small cell lung cancer	down	Down-regulation of microRNA-126 and microRNA-133b acts as novel predictor biomarkers in progression and metastasis of non small cell lung cancer.
+hsa-miR-152		non-small cell lung cancer	down	MiR-152 regulates metastases of non-small cell lung cancer cells by targeting neuropilin-1.
+hsa-miR-377		non-small cell lung cancer	down	microRNA-377 inhibits non-small-cell lung cancer through targeting AEG-1.
+hsa-miR-455		non-small cell lung cancer	down	MicroRNA-455 suppresses non-small cell lung cancer through targeting ZEB1.
+hsa-miR-1290		non-small cell lung cancer	up	Hsa-miR-1246 and hsa-miR-1290 are associated with stemness and invasiveness of non-small cell lung cancer.
+hsa-miR-1246		non-small cell lung cancer	up	Hsa-miR-1246 and hsa-miR-1290 are associated with stemness and invasiveness of non-small cell lung cancer.
+hsa-miR-20a-5p		non-small cell lung cancer	down	Identification of serum miRNAs by nano-quantum dots microarray as diagnostic biomarkers for early detection of non-small cell lung cancer.
+hsa-miR-16-5p		non-small cell lung cancer	down	Identification of serum miRNAs by nano-quantum dots microarray as diagnostic biomarkers for early detection of non-small cell lung cancer.
+hsa-miR-15b-5p		non-small cell lung cancer	up	Identification of serum miRNAs by nano-quantum dots microarray as diagnostic biomarkers for early detection of non-small cell lung cancer.
+hsa-miR-1271		non-small cell lung cancer	down	Inhibition of the growth of non-small cell lung cancer by miRNA-1271.
+hsa-miR-512-5p		non-small cell lung cancer	down	miR-512-5p induces apoptosis and inhibits glycolysis by targeting p21 in non-small cell lung cancer cells.
+hsa-miR-215		non-small cell lung cancer	down	miR-215 functions as a tumor suppressor and directly targets ZEB2 in human non-small cell lung cancer.
+hsa-miR-106a		non-small cell lung cancer	up	miR-106a promotes growth and metastasis of non-small cell lung cancer by targeting PTEN.
+hsa-miR-133a		non-small cell lung cancer	down	Down-regulation of miR-133a as a poor prognosticator in non-small cell lung cancer.
+hsa-miR-320		non-small cell lung cancer	down	MicroRNA-320 was downregulated in non-small cell lung cancer and inhibited cell proliferation, migration and invasion by targeting fatty acid synthase.
+hsa-miR-454		non-small cell lung cancer	up	MiR-454 promotes the progression of human non-small cell lung cancer and directly targets PTEN.
+hsa-miR-124		non-small cell lung cancer	down	miRNA-124 modulates lung carcinoma cell migration and invasion.
+hsa-miR-134		non-small cell lung cancer	down	miR-134 inhibits non-small cell lung cancer growth by targeting the epidermal growth factor receptor.
+hsa-miR-145		non-small cell lung cancer	down	MiR-145 and miR-203 represses TGF-?-induced epithelial-mesenchymal transition and invasion by inhibiting SMAD3 in non-small cell lung cancer cells.
+hsa-miR-203		non-small cell lung cancer	down	MiR-145 and miR-203 represses TGF-?-induced epithelial-mesenchymal transition and invasion by inhibiting SMAD3 in non-small cell lung cancer cells.
+hsa-miR-138		non-small cell lung cancer	down	MicroRNA-138 acts as a tumor suppressor in non small cell lung cancer via targeting YAP1.
+hsa-miR-663a		non-small cell lung cancer	down	MicroRNA-663a is downregulated in non-small cell lung cancer and inhibits proliferation and invasion by targeting JunD.
+hsa-miR-1908		non-small cell lung cancer	down	miR-1908 Overexpression Inhibits Proliferation, Changing Akt Activity and p53 Expression in Hypoxic NSCLC Cells.
+hsa-miR-203		non-small cell lung cancer	down	MicroRNA-mediated epigenetic targeting of Survivin significantly enhances the antitumor activity of paclitaxel against non-small cell lung cancer.
+hsa-miR-154		non-small cell lung cancer	down	MicroRNA-154 functions as a tumor suppressor and directly targets HMGA2 in human non-small cell lung cancer.
+hsa-miR-134		non-small cell lung cancer	down	Hsa-miR-134 suppresses non-small cell lung cancer (NSCLC) development through down-regulation of CCND1.
+hsa-miR-361-3p		non-small cell lung cancer	down	MicroRNA-361-3p suppresses tumor cell proliferation and metastasis by directly targeting SH2B1 in NSCLC.
+hsa-miR-491-5p		non-small cell lung cancer	down	MicroRNAs-491-5p suppresses cell proliferation and invasion by inhibiting IGF2BP1 in non-small cell lung cancer.
+hsa-miR-210		non-small cell lung cancer	up	Diagnostic Value of Serum miR-182, miR-183, miR-210, and miR-126 Levels in Patients with Early-Stage Non-Small Cell Lung Cancer.
+hsa-miR-126		non-small cell lung cancer	down	Diagnostic Value of Serum miR-182, miR-183, miR-210, and miR-126 Levels in Patients with Early-Stage Non-Small Cell Lung Cancer.
+hsa-miR-182		non-small cell lung cancer	up	Diagnostic Value of Serum miR-182, miR-183, miR-210, and miR-126 Levels in Patients with Early-Stage Non-Small Cell Lung Cancer.
+hsa-miR-183		non-small cell lung cancer	up	Diagnostic Value of Serum miR-182, miR-183, miR-210, and miR-126 Levels in Patients with Early-Stage Non-Small Cell Lung Cancer.
+hsa-miR-383		non-small cell lung cancer	down	MicroRNA-383 is a tumor suppressor and potential prognostic biomarker in human non-small cell lung caner.
+hsa-miR-328-3p		non-small cell lung cancer	down	Up- regulation of miR-328-3p sensitizes non-small cell lung cancer to radiotherapy.
+hsa-miR-135a		non-small cell lung cancer	down	Serum microRNA-135a downregulation as a prognostic marker of non-small cell lung cancer.
+hsa-miR-424-3p		non-small cell lung cancer	down	Loss of MiR-424-3p, not miR-424-5p, confers chemoresistance through targeting YAP1 in non-small cell lung cancer.
+hsa-miR-107		non-small cell lung cancer	down	MicroRNA-107 inhibits tumor growth and metastasis by targeting the BDNF-mediated PI3K/AKT pathway in human non-small lung cancer.
+hsa-miR-187-5p		non-small cell lung cancer	down	MicroRNA-187-5p suppresses cancer cell progression in non-small cell lung cancer (NSCLC) through down-regulation of CYP1B1.
+hsa-miR-146a-5p		non-small cell lung cancer	down	MiR-146a-5p inhibits cell proliferation and cell cycle progression in NSCLC cell lines by targeting CCND1 and CCND2.
+hsa-miR-301a		non-small cell lung cancer	up	Increased expression of microRNA-301a in nonsmall-cell lung cancer and its clinical significance.
+hsa-miR-338-3p		non-small cell lung cancer	down	miR-338-3p suppresses epithelial-mesenchymal transition and metastasis in human nonsmall cell lung cancer.
+hsa-miR-541-3p		non-small cell lung cancer	down	MiR-541-3p reverses cancer progression by directly targeting TGIF2 in non-small cell lung cancer.
+hsa-miR-141		non-small cell lung cancer	down	Inhibition of miR-141 reverses cisplatin resistance in non-small cell lung cancer cells via upregulation of programmed cell death protein 4.
+hsa-miR-124		non-small cell lung cancer	down	MicroRNA-124 suppresses tumor cell proliferation and invasion by targeting CD164 signaling pathway in non-small cell lung cancer.
+hsa-miR-200b		non-small cell lung cancer	down	miR-200b inhibits migration and invasion in non-small cell lung cancer cells via targeting FSCN1.
+hsa-miR-154		non-small cell lung cancer	down	miR-154 inhibits migration and invasion of human non-small cell lung cancer by targeting ZEB2.
+hsa-miR-320a		non-small cell lung cancer	down	Decreased expression of microRNA-320a promotes proliferation and invasion of non-small cell lung cancer cells by increasing VDAC1 expression.
+hsa-miR-148b		non-small cell lung cancer	down	MicroRNA-148b is a potential prognostic biomarker and predictor of response to radiotherapy in non-small-cell lung cancer.
+hsa-miR-184		non-small cell lung cancer	up	Reduction of microRNA-184 by E6 oncoprotein confers cisplatin resistance in lung cancer via increasing Bcl-2.
+hsa-miR-124		non-small cell lung cancer	down	MicroRNA-124 Functions as a Tumor Suppressor by Regulating CDH2 and Epithelial-Mesenchymal Transition in Non-Small Cell Lung Cancer.
+hsa-miR-1976		non-small cell lung cancer	down	MicroRNA-1976 functions as a tumor suppressor and serves as a prognostic indicator in non-small cell lung cancer by directly targeting PLCE1.
+hsa-miR-218-5p		non-small cell lung cancer	down	Tumor-suppressive miR-218-5p inhibits cancer cell proliferation and migration via EGFR in non-small cell lung cancer.
+hsa-miR-486-5p		non-small cell lung cancer	down	Direct repression of the oncogene CDK4 by the tumor suppressor miR-486-5p in non-small cell lung cancer.
+hsa-miR-376c		non-small cell lung cancer	down	MicroRNA-376c suppresses non-small-cell lung cancer cell growth and invasion by targeting LRH-1-mediated Wnt signaling pathway.
+hsa-miR-509-5p		non-small cell lung cancer	down	The Tumor Suppressive Role of MiRNA-509-5p by Targeting FOXM1 in Non-Small Cell Lung Cancer.
+hsa-miR-26b		non-small cell lung cancer	down	Expression of miRNA-26b in the diagnosis and prognosis of patients with non-small-cell lung cancer.
+hsa-miR-133b		non-small cell lung cancer	down	MicroRNA-133b inhibits the migration and invasion of non small cell lung cancer cells via targeting FSCN1.
+hsa-miR-181b		non-small cell lung cancer	down	MicroRNA-181b is downregulated in non-small cell lung cancer and inhibits cell motility by directly targeting HMGB1.
+hsa-miR-193a		non-small cell lung cancer	down	Pathologically decreased expression of miR-193a contributes to metastasis by targeting WT1-E-cadherin axis in non-small cell lung cancers.
+hsa-miR-155		non-small cell lung cancer	up	MiR-21 and MiR-155 promote non-small cell lung cancer progression by downregulating SOCS1, SOCS6, and PTEN.
+hsa-miR-21		non-small cell lung cancer	up	MiR-21 and MiR-155 promote non-small cell lung cancer progression by downregulating SOCS1, SOCS6, and PTEN.
+hsa-miR-635		non-small cell lung cancer	down	The microRNA-635 suppresses tumorigenesis in non-small cell lung cancer.
+hsa-miR-206		non-small cell lung cancer	down	MicroRNA-206 attenuates the growth and angiogenesis in non-small cell lung cancer cells by blocking the 14-3-3?/STAT3/HIF-1?/VEGF signaling.
+hsa-miR-32		non-small cell lung cancer	down	miR-32 functions as a tumor suppressor and directly targets SOX9 in human non-small cell lung cancer [Retraction].
+hsa-miR-92b		non-small cell lung cancer	down	Regulation of Twist in the metastasis of non-small cell lung cancer by miR-92b.
+hsa-miR-590		non-small cell lung cancer	down	microRNA-590 suppresses the tumorigenesis and invasiveness of non-small cell lung cancer cells by targeting ADAM9.
+hsa-miR-7		non-small cell lung cancer	down	MicroRNA-7 inhibits cell proliferation, migration and invasion in human non-small cell lung cancer cells by targeting FAK through ERK/MAPK signaling pathway.
+hsa-miR-520a-3p		non-small cell lung cancer	down	microRNA-520a-3p inhibits proliferation and cancer stem cell phenotype by targeting HOXD8 in non-small cell lung cancer.
+hsa-miR-585		non-small cell lung cancer	down	MicroRNA-585 acts as a tumor suppressor in non-small-cell lung cancer by targeting hSMG-1.
+hsa-miR-132		non-small cell lung cancer	down	MicroRNA-132 inhibits migration, invasion and epithelial-mesenchymal transition by regulating TGF?1/Smad2 in human non-small cell lung cancer.
+hsa-miR-124		non-small cell lung cancer	down	MicroRNA-124 suppresses Slug-mediated lung cancer metastasis.
+hsa-miR-195		non-small cell lung cancer	down	Diagnostic and prognostic value of plasma microRNA-195 in patients with non-small cell lung cancer.
+hsa-miR-154		non-small cell lung cancer	down	RETRACTION of articles with plagiarism in common with other publications.
+hsa-miR-944		non-small cell lung cancer	down	MicroRNA-944 Affects Cell Growth by Targeting EPHA7 in Non-Small Cell Lung Cancer.
+hsa-miR-138		non-small cell lung cancer	down	MicroRNA-138 inhibits migration and invasion of non-small cell lung cancer cells by targeting LIMK1.
+hsa-miR-1304		non-small cell lung cancer	down	MicroRNA-1304 suppresses human non-small cell lung cancer cell growth in vitro by targeting heme oxygenase-1.
+hsa-miR-143		non-small cell lung cancer	down	miR-143 suppresses the proliferation of NSCLC cells by inhibiting the epidermal growth factor receptor.
+hsa-miR-148a		non-small cell lung cancer	down	MicroRNA-148a suppresses proliferation and invasion potential of non-small cell lung carcinomas via regulation of STAT3.
+hsa-miR-9		non-small cell lung cancer	up	MiR-9 is involved in TGF-?1-induced lung cancer cell invasion and adhesion by targeting SOX7.
+hsa-miR-30a-5p		non-small cell lung cancer	down	CD73/NT5E is a target of miR-30a-5p and plays an important role in the pathogenesis of non-small cell lung cancer.
+hsa-miR-338-3p		non-small cell lung cancer	down	MiR-338-3p inhibits the growth and invasion of non-small cell lung cancer cells by targeting IRS2.
+hsa-miR-135b		non-small cell lung cancer	up	LncRNA GAS5 Inhibits Tumorigenesis and Enhances Radiosensitivity By Suppressing miR-135b Expression in Non-Small Cell Lung Cancer.
+hsa-miR-21		non-small cell lung cancer	up	The role of microRNA-21 in predicting brain metastases from non-small cell lung cancer.
+hsa-miR-27b		non-small cell lung cancer	down	Overexpression of MicroRNA-27b Inhibits Proliferation, Migration, and Invasion via Suppression of MET Expression.
+hsa-miR-134		non-small cell lung cancer	down	miR-134 suppresses the migration and invasion of non?small cell lung cancer by targeting ITGB1.
+hsa-miR-361-5p		non-small cell lung cancer	down	Downregulation of miR-361-5p associates with aggressive clinicopathological features and unfavorable prognosis in non-small cell lung cancer.
+hsa-miR-382		non-small cell lung cancer	down	miR-382 inhibits tumor progression by targeting SETD8 in non-small cell lung cancer.
+hsa-miR-592		non-small cell lung cancer	down	miR-592 functions as a tumor suppressor in human non-small cell lung cancer by targeting SOX9.
+hsa-miR-3940-5p		non-small cell lung cancer	down	miR-3940-5p Functions as a Tumor Suppressor in Non-Small Cell Lung Cancer Cells by Targeting Cyclin D1 and Ubiquitin Specific Peptidase-28.
+hsa-miR-150		non-small cell lung cancer	up	MiR-150 promotes cellular metastasis in non-small cell lung cancer by targeting FOXO4.
+hsa-miR-1247		non-small cell lung cancer	down	Silencing of miR-1247 by DNA methylation promoted non-small-cell lung cancer cell invasion and migration by effects of STMN1.
+hsa-miR-98		non-small cell lung cancer	down	MicroRNA-98 plays a suppressive role in non-small cell lung cancer through inhibition of SALL4 protein expression.
+hsa-miR-133b		non-small cell lung cancer	down	miR-133b inhibits cell growth, migration, and invasion by targeting MMP9 in non-small cell lung cancer.
+hsa-miR-509-5p		non-small cell lung cancer	down	MiR-509-5p suppresses the proliferation, migration, and invasion of non-small cell lung cancer by targeting YWHAG.
+hsa-miR-181a-5p		non-small cell lung cancer	down	MicroRNA-181a-5p Impedes IL-17-Induced Nonsmall Cell Lung Cancer Proliferation and Migration through Targeting VCAM-1.
+hsa-miR-424		non-small cell lung cancer	up	MiR-424 Promotes Non-Small Cell Lung Cancer Progression and Metastasis through Regulating the Tumor Suppressor Gene TNFAIP1.
+hsa-miR-92a		non-small cell lung cancer	up	MicroRNA-92a promotes epithelial-mesenchymal transition through activation of PTEN/PI3K/AKT signaling pathway in non-small cell lung cancer metastasis.
+hsa-miR-221		non-small cell lung cancer	up	Serum expression level of miR-504 can differentiate between glioblastoma multiforme and solitary brain metastasis of non-small cell lung carcinoma.
+hsa-miR-137		non-small cell lung cancer	down	miR-137 inhibits the proliferation of human non-small cell lung cancer cells by targeting SRC3.
+hsa-miR-29a		non-small cell lung cancer	down	MicroRNA-29a functions as a potential tumor suppressor through directly targeting CDC42 in non-small cell lung cancer.
+hsa-miR-320a		non-small cell lung cancer	down	MicroRNA-320a is downregulated in non-small cell lung cancer and suppresses tumor cell growth and invasion by directly targeting insulin-like growth factor 1 receptor.
+hsa-miR-516b		non-small cell lung cancer	down	Clinical Significance and Tumor-Suppressive Function of miR-516b in Nonsmall Cell Lung Cancer.
+hsa-miR-15b		non-small cell lung cancer	up	MicroRNA-15b promotes proliferation and invasion of non?small cell lung carcinoma cells by directly targeting TIMP2.
+hsa-miR-124		non-small cell lung cancer	down	MicroRNA-124 suppresses proliferation and glycolysis in non-small cell lung cancer cells by targeting AKT-GLUT1/HKII.
+hsa-miR-300		non-small cell lung cancer	down	MicroRNA-300 targets hypoxia inducible factor-3 alpha to inhibit tumorigenesis of human non-small cell lung cancer.
+hsa-miR-18a-5p		non-small cell lung cancer	up	MicroRNA-18a-5p functions as an oncogene by directly targeting IRF2 in lung cancer.
+hsa-miR-130a	mir-130	non-small cell lung cancer	down	MiR-130 exerts tumor suppressive function on the tumorigenesis of human non-small cell lung cancer by targeting PTEN.
+hsa-miR-130b	mir-130	non-small cell lung cancer	down	MiR-130 exerts tumor suppressive function on the tumorigenesis of human non-small cell lung cancer by targeting PTEN.
+hsa-miR-301a	mir-130	non-small cell lung cancer	down	MiR-130 exerts tumor suppressive function on the tumorigenesis of human non-small cell lung cancer by targeting PTEN.
+hsa-miR-301b	mir-130	non-small cell lung cancer	down	MiR-130 exerts tumor suppressive function on the tumorigenesis of human non-small cell lung cancer by targeting PTEN.
+hsa-miR-615-3p		non-small cell lung cancer	down	Identification of microRNA-615-3p as a novel tumor suppressor in non-small cell lung cancer.
+hsa-miR-215		non-small cell lung cancer	down	miR-215 suppresses proliferation and migration of non-small cell lung cancer cells.
+hsa-miR-589		non-small cell lung cancer	down	Hypermethylation of miRNA-589 promoter leads to upregulation of HDAC5 which promotes malignancy in non-small cell lung cancer.
+hsa-miR-21		non-small cell lung cancer	up	Role of microRNA-21 in radiosensitivity in non-small cell lung cancer cells by targeting PDCD4 gene.
+hsa-miR-187		non-small cell lung cancer	up	MicroRNA-187 modulates epithelial-mesenchymal transition by targeting PTRF in non-small cell lung cancer.
+hsa-miR-221		non-small cell lung cancer	up	miRNA-221 acts as an oncogenic role by directly targeting TIMP2 in non-small-cell lung carcinoma.
+hsa-miR-495		non-small cell lung cancer	down	miR-199a-5p and miR-495 target GRP78 within UPR pathway of lung cancer.
+hsa-miR-199a-5p		non-small cell lung cancer	down	miR-199a-5p and miR-495 target GRP78 within UPR pathway of lung cancer.
+hsa-miR-708-5p		non-small cell lung cancer	down	Downregulation of DNMT3A by miR-708-5p inhibits lung cancer stem cell-like phenotypes through repressing Wnt/?-catenin signaling.
+hsa-miR-486-5p		non-small cell lung cancer	down	ANK1 Methylation regulates expression of MicroRNA-486-5p and discriminates lung tumors by histology and smoking status.
+hsa-miR-181c		non-small cell lung cancer	up	miR-181c contributes to cisplatin resistance in non-small cell lung cancer cells by targeting Wnt inhibition factor 1.
+hsa-miR-98		non-small cell lung cancer	down	Low serum miR-98 as an unfavorable prognostic biomarker in patients with non-small cell lung cancer.
+hsa-miR-181a		non-small cell lung cancer	down	MiR-181a inhibits non-small cell lung cancer cell proliferation by targeting CDK1.
+hsa-miR-384		non-small cell lung cancer	down	MicroRNA-384 represses the growth and invasion of non-small-cell lung cancer by targeting astrocyte elevated gene-1/Wnt signaling.
+hsa-miR-542-5p		non-small cell lung cancer	down	The suppressive role of miR-542-5p in NSCLC: the evidence from clinical data and in vivo validation using a chick chorioallantoic membrane model.
+hsa-miR-124		non-small cell lung cancer	down	Inhibition of LHX2 by miR-124 suppresses cellular migration and invasion in non-small cell lung cancer.
+hsa-miR-33a		non-small cell lung cancer	down	miR-33a inhibits cell proliferation and invasion by targeting CAND1 in lung cancer.
+hsa-miR-542-3p		non-small cell lung cancer	down	MiR-542-3p exerts tumor suppressive functions in non-small cell lung cancer cells by upregulating FTSJ2.
+hsa-miR-30d		non-small cell lung cancer	down	Non-small cell lung cancer: miR-30d suppresses tumor invasion and migration by directly targeting NFIB.
+hsa-miR-1		non-small cell lung cancer	down	Lung Endothelial MicroRNA-1 Regulates Tumor Growth and Angiogenesis.
+hsa-miR-330-5p		non-small cell lung cancer	down	Inhibition of NOB1 by microRNA-330-5p overexpression represses cell growth of non-small cell lung cancer.
+hsa-miR-34a		non-small cell lung cancer	down	MicroRNA-34a/EGFR axis plays pivotal roles in lung tumorigenesis.
+hsa-miR-212		non-small cell lung cancer	down	MicroRNA-212 functions as a tumor-suppressor in human non-small cell lung cancer by targeting SOX4.
+hsa-miR-146b-5p		non-small cell lung cancer	down	MiR-146b-5p functions as a suppressor miRNA and prognosis predictor in non-small cell lung cancer.
+hsa-miR-224		non-small cell lung cancer	up	The miR-224 promotes non-small cell lung cancer cell proliferation by directly targeting RASSF8.
+hsa-miR-130b		non-small cell lung cancer	up	An alternative microRNA-mediated post-transcriptional regulation of GADD45A by p53 in human non-small-cell lung cancer cells.
+hsa-miR-616		non-small cell lung cancer	up	MicroRNA-616 promotes the growth and metastasis of non-small cell lung cancer by targeting SOX7.
+hsa-miR-376a		non-small cell lung cancer	down	MiR-376a suppresses the proliferation and invasion of non-small-cell lung cancer by targeting c-Myc.
+hsa-miR-103		non-small cell lung cancer	down	MiR-103 Functions as a Tumor Suppressor by Directly Targeting Programmed Cell Death 10 in NSCLC.
+hsa-miR-200c		non-small cell lung cancer	down	MicroRNA-200c inhibits epithelial-mesenchymal transition, invasion, and migration of lung cancer by targeting HMGB1.
+hsa-miR-661		non-small cell lung cancer	up	MiR-661 promotes tumor invasion and metastasis by directly inhibiting RB1 in non small cell lung cancer.
+hsa-miR-219		non-small cell lung cancer	down	MicroRNA-219 is downregulated in non-small cell lung cancer and inhibits cell growth and metastasis by targeting HMGA2.
+hsa-miR-150-5p		non-small cell lung cancer	down	Long non-coding RNA linc00673 regulated non-small cell lung cancer proliferation, migration, invasion and epithelial mesenchymal transition by sponging miR-150-5p.
+hsa-miR-375		non-small cell lung cancer	down	Down-regulated microRNA-375 expression as a predictive biomarker in non-small cell lung cancer brain metastasis and its prognostic significance.
+hsa-miR-30a		non-small cell lung cancer	down	MiR-30 suppresses lung cancer cell 95D epithelial mesenchymal transition and invasion through targeted regulating Snail.
+hsa-miR-605		non-small cell lung cancer	up	microRNA-605 promotes cell proliferation, migration and invasion in non-small cell lung cancer by directly targeting LATS2.
+hsa-miR-145-3p		non-small cell lung cancer	down	microRNA-145-3p inhibits non-small cell lung cancer cell migration and invasion by targeting PDK1 via the mTOR signaling pathway.
+hsa-miR-367		non-small cell lung cancer	up	miR-367 promotes tumor growth by inhibiting FBXW7 in NSCLC.
+hsa-miR-96		non-small cell lung cancer	up	Identification and characterization of miR-96, a potential biomarker of NSCLC, through bioinformatic analysis.
+hsa-miR-661		non-small cell lung cancer	up	MicroRNA-661 promotes non-small cell lung cancer progression by directly targeting RUNX3.
+hsa-miR-202		non-small cell lung cancer	down	miR-202 functions as a tumor suppressor in non-small cell lung cancer by targeting STAT3.
+hsa-miR-138		non-small cell lung cancer	down	MicroRNA-138 Inhibits Cell Growth, Invasion, and EMT of Non-Small Cell Lung Cancer Via SOX4/p53 Feedback Loop.
+hsa-miR-330-3p		non-small cell lung cancer	up	MicroRNA-330-3p promotes cell invasion and metastasis in non-small cell lung cancer through GRIA3 by activating MAPK/ERK signaling pathway.
+hsa-miR-129-5p		non-small cell lung cancer	down	MiR-129-5p inhibits non-small cell lung cancer cell stemness and chemoresistance through targeting DLK1.
+hsa-miR-200b		non-small cell lung cancer	down	Overexpression of lncRNA HOXA11-AS promotes cell epithelial-mesenchymal transition by repressing miR-200b in non-small cell lung cancer.
+hsa-miR-17-5p		non-small cell lung cancer	down	MicroRNA-17-5p inhibits proliferation and triggers apoptosis in non-small cell lung cancer by targeting transforming growth factor ? receptor 2.
+hsa-miR-9-5p		non-small cell lung cancer	up	MiR-9-5p promotes cell growth and metastasis in non-small cell lung cancer through the repression of TGFBR2.
+hsa-miR-211		non-small cell lung cancer	up	MicroRNA-211 promotes non-small-cell lung cancer proliferation and invasion by targeting MxA.
+hsa-miR-124		non-small cell lung cancer	down	MiR-124 Inhibits Growth and Enhances Radiation-Induced Apoptosis in Non-Small Cell Lung Cancer by Inhibiting STAT3.
+hsa-miR-106b-5p		non-small cell lung cancer	up	MiR-106b-5p Promotes Proliferation and Inhibits Apoptosis by Regulating BTG3 in Non-Small Cell Lung Cancer.
+hsa-miR-30e-5p		non-small cell lung cancer	down	MicroRNA-30e-5p suppresses non-small cell lung cancer tumorigenesis by regulating USP22-mediated Sirt1/JAK/STAT3 signaling.
+hsa-miR-455-3p		non-small cell lung cancer	down	miR-455-3p serves as prognostic factor and regulates the proliferation and migration of non-small cell lung cancer through targeting HOXB5.
+hsa-miR-4465		non-small cell lung cancer	down	MicroRNA-4465 suppresses tumor proliferation and metastasis in non-small cell lung cancer by directly targeting the oncogene EZH2.
+hsa-miR-335		non-small cell lung cancer	down	miR-335 inhibited cell proliferation of lung cancer cells by target Tra2?.
+hsa-miR-16		non-small cell lung cancer	down	miR-16 mimics inhibit TGF-?1-induced epithelial-to-mesenchymal transition via activation of autophagy in non-small cell lung carcinoma cells.
+hsa-miR-23b		non-small cell lung cancer	down	PDGFR-modulated miR-23b cluster and miR-125a-5p suppress lung tumorigenesis by targeting multiple components of KRAS and NF-kB pathways.
+hsa-miR-125a-5p		non-small cell lung cancer	down	PDGFR-modulated miR-23b cluster and miR-125a-5p suppress lung tumorigenesis by targeting multiple components of KRAS and NF-kB pathways.
+hsa-miR-142-5p		non-small cell lung cancer	down	MiR-142-5p Suppresses Tumorigenesis by Targeting PIK3CA in Non-Small Cell Lung Cancer.
+hsa-miR-149		non-small cell lung cancer	down	miR-149 suppresses human non-small cell lung cancer growth and metastasis by inhibiting the FOXM1/cyclin D1/MMP2 axis.
+hsa-miR-9		non-small cell lung cancer	up	TGF-?1-induced epithelial-mesenchymal transition in lung cancer cells involves upregulation of miR-9 and downregulation of its target, E-cadherin.
+hsa-miR-342-3p		non-small cell lung cancer	down	miR-342-3p suppresses cell proliferation and migration by targeting AGR2 in non-small cell lung cancer.
+hsa-miR-486-5p		non-small cell lung cancer	down	miR-30a-5p together with miR-210-3p as a promising biomarker for non-small cell lung cancer: A preliminary study.
+hsa-miR-126-3p		non-small cell lung cancer	down	miR-30a-5p together with miR-210-3p as a promising biomarker for non-small cell lung cancer: A preliminary study.
+hsa-miR-205-5p		non-small cell lung cancer	up	miR-30a-5p together with miR-210-3p as a promising biomarker for non-small cell lung cancer: A preliminary study.
+hsa-miR-210-3p		non-small cell lung cancer	up	miR-30a-5p together with miR-210-3p as a promising biomarker for non-small cell lung cancer: A preliminary study.
+hsa-miR-30a-5p		non-small cell lung cancer	down	miR-30a-5p together with miR-210-3p as a promising biomarker for non-small cell lung cancer: A preliminary study.
+hsa-miR-98-5p		non-small cell lung cancer	down	NEAT1/has-mir-98-5p/MAPK6 axis is involved in non-small-cell lung cancer (NSCLC) development.
+hsa-miR-186		non-small cell lung cancer	down	MiR-186 inhibits proliferation, migration, and invasion of non-small cell lung cancer cells by downregulating Yin Yang 1.
+hsa-miR-34a		non-small cell lung cancer	down	MiR-34a modulates ionizing radiation-induced senescence in lung cancer cells.
+hsa-miR-373		non-small cell lung cancer	down	MicroRNA-373 Inhibits Cell Proliferation and Invasion via Targeting BRF2 in Human Non-small Cell Lung Cancer A549 Cell Line.
+hsa-miR-29c		non-small cell lung cancer	down	MicroRNA-29c inhibits proliferation and promotes apoptosis in non-small cell lung cancer cells by targeting VEGFA.
+hsa-miR-485-5p		non-small cell lung cancer	down	MicroRNA-485-5p suppresses growth and metastasis in non-small cell lung cancer cells by targeting IGF2BP2.
+hsa-miR-584		non-small cell lung cancer	down	MicroRNA-584 inhibits cell proliferation and invasion in non-small cell lung cancer by directly targeting MTDH.
+hsa-miR-30a		non-small cell lung cancer	down	MicroRNA-30a suppresses non-small-cell lung cancer by targeting Myb-related protein B.
+hsa-miR-494		non-small cell lung cancer	up	Prognostic and clinicopathological significance of microRNA-494 overexpression in cancers: a meta-analysis.
+hsa-miR-195		non-small cell lung cancer	down	miR-195 targets cyclin D3 and survivin to modulate the tumorigenesis of non-small cell lung cancer.
+hsa-miR-1253		non-small cell lung cancer	down	MicroRNA-1253 suppresses cell proliferation and invasion of non-small-cell lung carcinoma by targeting WNT5A.
+hsa-miR-455-5p		non-small cell lung cancer	up	miR-455-5p promotes cell growth and invasion by targeting SOCO3 in non-small cell lung cancer.
+hsa-miR-20a		non-small cell lung cancer	up	MicroRNA-20a promotes proliferation and invasion by directly targeting early growth response 2 in non-small cell lung carcinoma.
+hsa-miR-760		non-small cell lung cancer	down	MiR-760 suppresses non-small cell lung cancer proliferation and metastasis by targeting ROS1.
+hsa-miR-769-5p		non-small cell lung cancer	down	miR-769-5p suppressed cell proliferation, migration and invasion by targeting TGFBR1 in non-small cell lung carcinoma.
+hsa-miR-145-5p		non-small cell lung cancer	down	miR-145-5p inhibits epithelial-mesenchymal transition via the JNK signaling pathway by targeting MAP3K1 in non-small cell lung cancer cells.
+hsa-miR-200c		non-small cell lung cancer	down	The Downregulation of miR-200c Promotes Lactate Dehydrogenase A Expression and Non-Small Cell Lung Cancer Progression.
+hsa-miR-93-5p		non-small cell lung cancer	up	MiR-93-5p up-regulation is involved in non-small cell lung cancer cells proliferation and migration and poor prognosis.
+hsa-miR-135b	mir-135	non-small cell lung cancer	up	Downregulation of MicroRNA-135 Promotes Sensitivity of Non-Small Cell Lung Cancer to Gefitinib by Targeting TRIM16.
+hsa-miR-381		non-small cell lung cancer	down	microRNA-381 suppresses the growth and increases cisplatin sensitivity in non-small cell lung cancer cells through inhibition of nuclear factor-?B signaling.
+hsa-miR-494		non-small cell lung cancer	up	Upregulation of serum miR-494 predicts poor prognosis in non-small cell lung cancer patients.
+hsa-miR-1290		non-small cell lung cancer	down	Overexpression of miR-1290 contributes to cell proliferation and invasion of non small cell lung cancer by targeting interferon regulatory factor 2.
+hsa-miR-661		non-small cell lung cancer	up	Clinical impact of serum miR-661 in diagnosis and prognosis of non-small cell lung cancer.
+hsa-miR-96		non-small cell lung cancer	up	miR-96 promotes invasion and metastasis by targeting GPC3 in non-small cell lung cancer cells.
+hsa-miR-320a-3p		non-small cell lung cancer	down	MiR-320a-3p/ELF3 axis regulates cell metastasis and invasion in non-small cell lung cancer via PI3K/Akt pathway.
+hsa-miR-29c		non-small cell lung cancer	down	MiR-29c reduces the cisplatin resistance of non-small cell lung cancer cells by negatively regulating the PI3K/Akt pathway.
+hsa-miR-1275		non-small cell lung cancer	up	MiR-1275 promotes non-small cell lung cancer cell proliferation and metastasis by regulating LZTS3 expression.
+hsa-miR-598		non-small cell lung cancer	down	MiR-598 Suppresses Invasion and Migration by Negative Regulation of Derlin-1 and Epithelial-Mesenchymal Transition in Non-Small Cell Lung Cancer.
+hsa-miR-142-5p		non-small cell lung cancer	up	miR-142-5p regulates CD4+ T cells in human non-small cell lung cancer through PD-L1 expression via the PTEN pathway.
+hsa-miR-137		non-small cell lung cancer	down	Aberrant microRNA-137 promoter methylation is associated with lymph node metastasis and poor clinical outcomes in non-small cell lung cancer.
+hsa-miR-101		non-small cell lung cancer	down	MiR-101 inhibits the proliferation and metastasis of lung cancer by targeting zinc finger E-box binding homeobox 1.
+hsa-miR-182		non-small cell lung cancer	up	MiR-182 promotes cell proliferation by suppressing FBXW7 and FBXW11 in non-small cell lung cancer.
+hsa-miR-224		non-small cell lung cancer	up	miR-224 enhances invasion and metastasis by targeting HOXD10 in non-small cell lung cancer cells.
+hsa-miR-185		non-small cell lung cancer	down	MiR-185 inhibits cell proliferation and invasion of non-small cell lung cancer by targeting KLF7.
+hsa-miR-17		non-small cell lung cancer	down	H19 promotes non-small-cell lung cancer (NSCLC) development through STAT3 signaling via sponging miR-17.
+hsa-miR-21		non-small cell lung cancer	up	Effect of miR-21 on Apoptosis in Lung Cancer Cell Through Inhibiting the PI3K/ Akt/NF-?B Signaling Pathway in Vitro and in Vivo.
+hsa-miR-760		non-small cell lung cancer	down	MiR-760 enhances TRAIL sensitivity in non-small cell lung cancer via targeting the protein FOXA1.
+hsa-miR-498		non-small cell lung cancer	down	Targeting the HMGA2 oncogene by miR-498 inhibits non-small cell lung cancer biological behaviors.
+hsa-miR-1260b		non-small cell lung cancer	up	MiR-1260b promotes the migration and invasion in non-small cell lung cancer via targeting PTPRK.
+hsa-miR-223-5p		non-small cell lung cancer	down	MiR-223-5p suppresses tumor growth and metastasis in non-small cell lung cancer by targeting E2F8.
+hsa-miR-126-5p		non-small cell lung cancer	down	miR-126-5p targets Malate Dehydrogenase 1 in non-small cell lung carcinomas.
+hsa-miR-486-5p		non-small cell lung cancer	up	miR-486-5p functions as an oncogene by targeting PTEN in non-small cell lung cancer.
+hsa-miR-449a		non-small cell lung cancer	down	MiR-449a suppresses tumor growth, migration and invasion in non-small cell lung cancer by targeting HMGB1-mediated NF-?B signaling way.
+hsa-miR-148b		non-small cell lung cancer	down	MicroRNA-148b inhibits proliferation and the epithelial-mesenchymal transition and increases radiosensitivity in non-small cell lung carcinomas by regulating ROCK1.
+hsa-miR-30b		non-small cell lung cancer	down	MicroRNA-30b inhibits non-small cell lung cancer cell growth by targeting the epidermal growth factor receptor.
+hsa-miR-144		non-small cell lung cancer	down	A novel circular RNA hsa_circ_0020123 exerts oncogenic properties through suppression of miR-144 in non-small cell lung cancer.
+hsa-miR-936		non-small cell lung cancer	down	Overexpression of microRNA-936 suppresses non-small cell lung cancer cell proliferation and invasion via targeting E2F2.
+hsa-miR-935		non-small cell lung cancer	down	microRNA-935 is reduced in non-small-cell lung cancer tissue, is linked poor outcome, and acts on signal transduction mediator E2F7 and the AKT pathway.
+hsa-miR-138		non-small cell lung cancer	down	HOXA4-regulated miR-138 suppresses proliferation and gefitinib resistance in non-small cell lung cancer.
+hsa-miR-1179		non-small cell lung cancer	down	MicroRNA-1179 suppresses cell growth and invasion by targeting sperm-associated antigen 5-mediated Akt signaling in human non-small cell lung cancer.
+hsa-miR-362		non-small cell lung cancer	up	Aberrant Expression of miR-362 Promotes Lung Cancer Metastasis through Downregulation of Sema3A.
+hsa-miR-421		non-small cell lung cancer	up	Upregulated expression of miR-421 is associated with poor prognosis in non-small-cell lung cancer.
+hsa-miR-449b		non-small cell lung cancer	down	Inhibitory Effect of MiR-449b on Cancer Cell Growth and Invasion through LGR4 in Non-Small-Cell Lung Carcinoma.
+hsa-miR-486-5p		non-small cell lung cancer	down	miR-486-5p inhibits cell proliferation and invasion through repressing GAB2 in non-small cell lung cancer.
+hsa-miR-1269a		non-small cell lung cancer	up	MiR-1269a acts as an onco-miRNA in non-small cell lung cancer via down-regulating SOX6.
+hsa-miR-1258		non-small cell lung cancer	down	MicroRNA-1258 suppresses tumour progression via GRB2/Ras/Erk pathway in non-small-cell lung cancer.
+hsa-miR-145		non-small cell lung cancer	down	miR-145 and miR-497 suppress TGF-?-induced epithelial-mesenchymal transition of non-small cell lung cancer by targeting MTDH.
+hsa-miR-497		non-small cell lung cancer	down	miR-145 and miR-497 suppress TGF-?-induced epithelial-mesenchymal transition of non-small cell lung cancer by targeting MTDH.
+hsa-miR-550a-3p		non-small cell lung cancer	up	MiR-550a-3p promotes non-small cell lung cancer cell proliferation and metastasis through down-regulating TIMP2.
+hsa-miR-577		non-small cell lung cancer	down	miR-577 suppresses cell proliferation and epithelial-mesenchymal transition by regulating the WNT2B mediated Wnt/?-catenin pathway in non-small cell lung cancer.
+hsa-miR-1256		non-small cell lung cancer	down	MiR-1256 suppresses proliferation and migration of non-small cell lung cancer via regulating TCTN1.
+hsa-miR-182		non-small cell lung cancer	down	miR-182 suppresses invadopodia formation and metastasis in non-small cell lung cancer by targeting cortactin gene.
+hsa-miR-106b		non-small cell lung cancer	up	Expression of microRNAs-106b in nonsmall cell lung cancer.
+hsa-miR-340		non-small cell lung cancer	down	Lower miR-340 expression predicts poor prognosis of non-small cell lung cancer and promotes cell proliferation by targeting CDK4.
+hsa-miR-154		non-small cell lung cancer	down	MicroRNA-154 functions as a tumor suppressor in non-small cell lung cancer through directly targeting B-cell-specific Moloney murine leukemia virus insertion site 1.
+hsa-miR-4299		non-small cell lung cancer	down	MiR-4299 suppresses non-small cell lung cancer cell proliferation, migration and invasion through modulating PTEN/AKT/PI3K pathway.
+hsa-miR-214		non-small cell lung cancer	up	Down-regulation of miR-214 inhibits proliferation and glycolysis in non-small-cell lung cancer cells via down-regulating the expression of hexokinase 2 and pyruvate kinase isozyme M2.
+hsa-miR-760		non-small cell lung cancer	down	Correction to: MiR-760 suppresses non-small cell lung cancer proliferation and metastasis by targeting ROS1.
+hsa-miR-19a	mir-19	non-small cell lung cancer	up	miRNA-19 promotes non-small-cell lung cancer cell proliferation via inhibiting CBX7 expression.
+hsa-miR-24		non-small cell lung cancer	up	MiR-24 promotes migration and invasion of non-small cell lung cancer by targeting ZNF367.
+hsa-miR-21-5p		non-small cell lung cancer	up	MiR-21-5p promotes the progression of non-small-cell lung cancer by regulating the expression of SMAD7.
+hsa-miR-3607-3p		non-small cell lung cancer	down	miR-3607-3p suppresses non-small cell lung cancer (NSCLC) by targeting TGFBR1 and CCNE2.
+hsa-miR-1204		non-small cell lung cancer	up	MicroRNA-1204 promotes cell proliferation by regulating PITX1 in non-small-cell lung cancer.
+hsa-miR-148a-3p		non-small cell lung cancer	down	microRNA-148a-3p inhibited the proliferation and epithelial-mesenchymal transition progression of non-small-cell lung cancer via modulating Ras/MAPK/Erk signaling.
+hsa-miR-582-5p		non-small cell lung cancer	down	miR-582-5p is a potential prognostic marker in human non-small cell lung cancer and functions as a tumor suppressor by targeting MAP3K2.
+hsa-miR-495		non-small cell lung cancer	down	MicroRNA-495 inhibits the progression of non-small-cell lung cancer by targeting TCF4 and inactivating Wnt/?-catenin pathway.
+hsa-miR-330-3p		non-small cell lung cancer	up	Circ_0078767 suppresses non-small-cell lung cancer by protecting RASSF1A expression via sponging miR-330-3p.
+hsa-miR-451		non-small cell lung cancer	down	LncRNA TATDN1 contributes to the cisplatin resistance of non-small cell lung cancer through TATDN1/miR-451/TRIM66 axis.
+hsa-miR-758		non-small cell lung cancer	down	Overexpression of miR-758 inhibited proliferation, migration, invasion, and promoted apoptosis of non-small cell lung cancer cells by negatively regulating HMGB.
+hsa-miR-383		non-small cell lung cancer	down	microRNA-383 regulates cell viability and apoptosis by mediating Wnt/?-catenin signaling pathway in non-small cell lung cancer.
+hsa-miR-520b		non-small cell lung cancer	up	MiR-520b promotes the progression of non-small cell lung cancer through activating Hedgehog pathway.
+hsa-miR-145		non-small cell lung cancer	down	Serum levels of candidate microRNA diagnostic markers differ among the stages of non-small-cell lung cancer.
+hsa-miR-520b		non-small cell lung cancer	down	Role of miR-520b in non-small cell lung cancer.
+hsa-miR-30d-5p		non-small cell lung cancer	down	Expression Signature and Role of miR-30d-5p in Non-Small Cell Lung Cancer: a Comprehensive Study Based on in Silico Analysis of Public Databases and in Vitro Experiments.
+hsa-miR-98-5p		non-small cell lung cancer	down	MicroRNA-98-5p inhibits proliferation and metastasis in non-small cell lung cancer by targeting TGFBR1.
+hsa-miR-5195-3p		non-small cell lung cancer	down	MicroRNA-5195-3p plays a suppressive role in cell proliferation, migration and invasion by targeting MYO6 in human non-small cell lung cancer.
+hsa-miR-33b		non-small cell lung cancer	down	Downregulation of miR-33b promotes non-small cell lung cancer cell growth through reprogramming glucose metabolism miR-33b regulates non-small cell lung cancer cell growth.
+hsa-miR-302b-3p		non-small cell lung cancer	down	Downregulation of N-Acetylglucosaminyltransferase GCNT3 by miR-302b-3p Decreases Non-Small Cell Lung Cancer (NSCLC) Cell Proliferation, Migration and Invasion.
+hsa-miR-647		non-small cell lung cancer	down	MicroRNA-647 promotes the therapeutic effectiveness of argon-helium cryoablation and inhibits cell proliferation through targeting TRAF2 via the NF-?B signaling pathway in non-small cell lung cancer.
+hsa-miR-34c-3p		non-small cell lung cancer	down	Aptamer-miR-34c Conjugate Affects Cell Proliferation of Non-Small-Cell Lung Cancer Cells.
+hsa-miR-133a		non-small cell lung cancer	down	MicroRNA-133a downregulated EGFR expression in human non-small cell lung cancer cells via AKT/ERK signaling.
+hsa-miR-217		non-small cell lung cancer	down	MicroRNA-217 alleviates development of non-small cell lung cancer by inhibiting AKT3 via PI3K pathway.
+hsa-miR-590-5p		non-small cell lung cancer	down	MicroRNA-590-5p suppresses the proliferation and invasion of non-small cell lung cancer by regulating GAB1.
+hsa-miR-500a-3p		non-small cell lung cancer	down	MiRNA-500a-3p inhibits cell proliferation and invasion by targeting lymphocyte antigen 6 complex locus K (LY6K) in human non-small cell lung cancer.
+hsa-miR-451a		non-small cell lung cancer	down	Regulation by Pink1 on the mitochondrial dysfunction in endothelial cells post the hypoxia mimetic agent CoCl2 treatment.
+hsa-miR-451a		non-small cell lung cancer	down	MiR-451a suppressed cell migration and invasion in non-small cell lung cancer through targeting ATF2.
+hsa-miR-4317		non-small cell lung cancer	down	miR-4317 suppresses non-small cell lung cancer (NSCLC) by targeting fibroblast growth factor 9 (FGF9) and cyclin D2 (CCND2).
+hsa-miR-423-5p		non-small cell lung cancer	up	MiR-423-5p in brain metastasis: potential role in diagnostics and molecular biology.
+hsa-miR-99b-5p		non-small cell lung cancer	down	miRNA-99b-5p targets FZD8 to inhibit non-small cell lung cancer proliferation, migration and invasion.
+hsa-miR-510		non-small cell lung cancer	up	MicroRNA-510 Plays Oncogenic Roles in Non-Small Cell Lung Cancer by Directly Targeting SRC Kinase Signaling Inhibitor 1.
+hsa-miR-142-3p		non-small cell lung cancer	down	MicroRNA-142-3p/MALAT1 inhibits lung cancer progression through repressing ?-catenin expression.
+hsa-miR-330-3p		non-small cell lung cancer	up	The Key microRNAs Regulated the Development of Non-small Cell Lung Cancer by Targeting TGF-?-induced epithelial-mesenchymal Transition.
+hsa-miR-516a-5p		non-small cell lung cancer	down	MiR-516a-5p inhibits the proliferation of non-small cell lung cancer by targeting HIST3H2A.
+hsa-miR-345		non-small cell lung cancer	down	MicroRNA-345 suppresses cell invasion and migration in non-small cell lung cancer by directly targeting YAP1.
+hsa-miR-331-3p		non-small cell lung cancer	down	MicroRNA-331-3p inhibits epithelial-mesenchymal transition by targeting ErbB2 and VAV2 through the Rac1/PAK1/?-catenin axis in non-small-cell lung cancer.
+hsa-miR-122-5p		non-small cell lung cancer	up	MicroRNA-122-5p promotes the development of non-small cell lung cancer via downregulating p53 and activating PI3K-AKT pathway.
+hsa-miR-25		non-small cell lung cancer	up	Clinical significance of serum miR-25 in non-small-cell lung cancer.
+hsa-miR-448		non-small cell lung cancer	down	microRNA-448 inhibits the progression of non-small-cell lung cancer through regulating IRS2.
+hsa-miR-1205		non-small cell lung cancer	down	MiR-1205 functions as a tumor suppressor by disconnecting the synergy between KRAS and MDM4/E2F1 in non-small cell lung cancer.
+hsa-miR-382		non-small cell lung cancer	down	MicroRNA-382 inhibits cancer cell growth and metastasis in NSCLC via targeting LMO3.
+hsa-miR-194		non-small cell lung cancer	down	miR-194 suppresses high glucose-induced non-small cell lung cancer cell progression by targeting NFAT5.
+hsa-miR-5095		non-small cell lung cancer	down	Long noncoding RNA LINC01296 induces non-small cell lung cancer growth and progression through sponging miR-5095.
+hsa-miR-433		non-small cell lung cancer	down	miR-433 suppresses tumor progression via Smad2 in non-small cell lung cancer.
+hsa-miR-421		non-small cell lung cancer	up	MicroRNA-421 promotes proliferation and invasion of non-small cell lung cancer cells through targeting PDCD4.
+hsa-miR-146a-5p		non-small cell lung cancer	down	Transcriptomic studies provide insights into the tumor suppressive role of miR-146a-5p in non-small cell lung cancer (NSCLC) cells.
+hsa-miR-19a		non-small cell lung cancer	up	MicroRNA-19a promotes proliferative and migratory abilities of NSCLC cells by inhibiting PTEN expression.
+hsa-miR-124		non-small cell lung cancer	down	Overexpression of LIMD2 promotes the progression of non-small cell lung cancer.
+hsa-miR-615-3p		non-small cell lung cancer	down	Long non-coding RNA HOTTIP promotes hypoxia-induced glycolysis through targeting miR-615-3p/HMGB3 axis in non-small cell lung cancer cells.
+hsa-miR-496		non-small cell lung cancer	down	miR-496 suppress tumorigenesis via targeting BDNF-mediated PI3K/Akt signaling pathway in non-small cell lung cancer.
+hsa-miR-150		non-small cell lung cancer	up	C-myc/miR-150/EPG5 axis mediated dysfunction of autophagy promotes development of non-small cell lung cancer.
+hsa-miR-3934-5p		non-small cell lung cancer	up	Downregulation of miR-3934-5p enhances A549 cell sensitivity to cisplatin by targeting TP53INP1.
+hsa-miR-34c		non-small cell lung cancer	down	MiR-34c acts as a tumor suppressor in non-small cell lung cancer by inducing endoplasmic reticulum stress through targeting HMGB1.
+hsa-miR-302a-5p		non-small cell lung cancer	down	MiR-302a-5p suppresses cell proliferation and invasion in non-small cell lung carcinoma by targeting ITGA6.
+hsa-miR-149-3p		non-small cell lung cancer	up	LINC00472 Acts as a Tumor Suppressor in NSCLC through KLLN-Mediated p53-Signaling Pathway via MicroRNA-149-3p and MicroRNA-4270.
+hsa-miR-4270		non-small cell lung cancer	up	LINC00472 Acts as a Tumor Suppressor in NSCLC through KLLN-Mediated p53-Signaling Pathway via MicroRNA-149-3p and MicroRNA-4270.
+hsa-miR-337		non-small cell lung cancer	down	Hsa-miR-337 inhibits non-small cell lung cancer cell invasion and migration by targeting TCF7.
+hsa-miR-140-5p		non-small cell lung cancer	down	Effect of miR-140-5p on the regulation of proliferation and apoptosis in NSCLC and its underlying mechanism.
+hsa-miR-205		non-small cell lung cancer	up	Serum microRNA Signature Is Capable of Early Diagnosis for Non-Small Cell Lung Cancer.
+hsa-miR-337		non-small cell lung cancer	up	Serum microRNA Signature Is Capable of Early Diagnosis for Non-Small Cell Lung Cancer.
+hsa-miR-30b		non-small cell lung cancer	up	Serum microRNA Signature Is Capable of Early Diagnosis for Non-Small Cell Lung Cancer.
+hsa-miR-146b		non-small cell lung cancer	up	Serum microRNA Signature Is Capable of Early Diagnosis for Non-Small Cell Lung Cancer.
+hsa-miR-29c		non-small cell lung cancer	up	Serum microRNA Signature Is Capable of Early Diagnosis for Non-Small Cell Lung Cancer.
+hsa-miR-196a		non-small cell lung cancer	up	Downregulation of microRNA-196a inhibits stem cell self-renewal ability and stemness in non-small-cell lung cancer through upregulating GPX3 expression.
+hsa-miR-4262		non-small cell lung cancer	up	Involvement of miR-4262 in paclitaxel resistance through the regulation of PTEN in non-small cell lung cancer.
+hsa-miR-877		non-small cell lung cancer	down	MicroRNA-877 inhibits cell proliferation and invasion in non-small cell lung cancer by directly targeting IGF-1R.
+hsa-miR-191		non-small cell lung cancer	up	MicroRNA-191 targets CCAAT/enhanced binding protein ? and functions as an oncogenic molecule in human non-small cell lung carcinoma cells.
+hsa-miR-25		non-small cell lung cancer	up	Low plasma miR-25 expression is a favorite prognosis factor in non-small cell lung cancer.
+hsa-miR-296-3p		non-small cell lung cancer	down	MiR-296-3p may affect the proliferation and migration of non-small cell lung cancer cells via regulating RABL3.
+hsa-miR-20b-5p		non-small cell lung cancer	up	Regulation of BTG3 by microRNA-20b-5p in non-small cell lung cancer.
+hsa-miR-940		non-small cell lung cancer	down	MiR-940 inhibits TGF-?-induced epithelial-mesenchymal transition and cell invasion by targeting Snail in non-small cell lung cancer.
+hsa-miR-199a-5p		non-small cell lung cancer	down	MiR-199a-5p suppresses non-small cell lung cancer via targeting MAP3K11.
+hsa-miR-1204		non-small cell lung cancer	down	The miR-1204 regulates apoptosis in NSCLC cells by targeting DEK.
+hsa-miR-675-5p		non-small cell lung cancer	up	Upregulation of miR-675-5p induced by lncRNA H19 was associated with tumor progression and development by targeting tumor suppressor p53 in non-small cell lung cancer.
+hsa-miR-422a		non-small cell lung cancer	down	MicroRNA-422a functions as a tumor suppressor in non-small cell lung cancer through SULF2-mediated TGF-?/SMAD signaling pathway.
+hsa-miR-218		non-small cell lung cancer	down	Downregulation of miR-218 by nicotine promotes cell proliferation through targeting CDK6 in non-small cell lung cancer.
+hsa-miR-1197		non-small cell lung cancer	up	MicroRNA-1197 downregulation inhibits proliferation and migration in human non- small cell lung cancer cells by upregulating HOXC11.
+hsa-miR-582-5p		non-small cell lung cancer	down	MicroRNA-582-5p suppresses non-small cell lung cancer cells growth and invasion via downregulating NOTCH1.
+hsa-miR-340-5p		non-small cell lung cancer	down	MicroRNA-340-5p suppresses non-small cell lung cancer cell growth and metastasis by targeting ZNF503.
+hsa-miR-17-5p		non-small cell lung cancer	up	Detection of circulating exosomal miR-17-5p serves as a novel non-invasive diagnostic marker for non-small cell lung cancer patients.
+hsa-miR-133a		non-small cell lung cancer	down	MiR-133a suppressed cell migration and invasion by targeting SOX4 in non-small cell lung cancer.
+hsa-miR-21		non-small cell lung cancer	up	miR-21 regulates growth and EMT in lung cancer cells via PTEN/Akt/GSK3? signaling.
+hsa-miR-660-5p		non-small cell lung cancer	up	Exosomal miR-660-5p promotes tumor growth and metastasis in non-small cell lung cancer.
+hsa-miR-203		non-small cell lung cancer	up	MicroRNA-203 promotes the progression of non-small cell lung cancer via surviving.
+hsa-miR-30a-5p		non-small cell lung cancer	down	p53/miR-30a-5p/ SOX4 feedback loop mediates cellular proliferation, apoptosis, and migration of non-small-cell lung cancer.
+hsa-miR-150-5p		non-small cell lung cancer	down	miR-150-5p Inhibits Non-Small-Cell Lung Cancer Metastasis and Recurrence by Targeting HMGA2 and ?-Catenin Signaling.
+hsa-miR-486-5p		non-small cell lung cancer	down	MicroRNA-486-5p improves nonsmall-cell lung cancer chemotherapy sensitivity and inhibits epithelial-mesenchymal transition by targeting twinfilin actin binding protein 1.
+hsa-miR-216b		non-small cell lung cancer	down	MiR-216b suppresses cell proliferation, migration, invasion, and epithelial-mesenchymal transition by regulating FOXM1 expression in human non-small cell lung cancer.
+hsa-miR-365		non-small cell lung cancer	down	Altered expression of microRNA-365 is related to the occurrence and development of non-small-cell lung cancer by inhibiting TRIM25 expression.
+hsa-miR-655-3p		non-small cell lung cancer	down	miR-655-3p inhibits cell migration and invasion by targeting pituitary tumor-transforming 1 in non-small cell lung cancer.
+hsa-miR-30e		non-small cell lung cancer	down	MicroRNA-30e inhibits proliferation and invasion of non-small cell lung cancer via targeting SOX9.
+hsa-miR-4286		non-small cell lung cancer	up	MicroRNA-4286 promotes cell proliferation, migration, and invasion via PTEN regulation of the PI3K/Akt pathway in non-small cell lung cancer.
+hsa-miR-130b		non-small cell lung cancer	up	MicroRNA-130b functions as an oncomiRNA in non-small cell lung cancer by targeting tissue inhibitor of metalloproteinase-2.
+hsa-miR-497-5p		non-small cell lung cancer	down	MicroRNA-497-5p inhibits proliferation and invasion of non-small cell lung cancer by regulating FGF2.
+hsa-miR-889		non-small cell lung cancer	up	MiR-889 promotes cell growth in human non-small cell lung cancer by regulating KLF9.
+hsa-miR-183-5p		non-small cell lung cancer	up	MiR-183-5p is required for non-small cell lung cancer progression by repressing PTEN.
+hsa-miR-144-3p		non-small cell lung cancer	down	Down-regulation of microRNA-144-3p and its clinical value in non-small cell lung cancer: a comprehensive analysis based on microarray, miRNA-sequencing, and quantitative real-time PCR data.
+hsa-miR-338-3p		non-small cell lung cancer	down	The regulation of Neuropilin 1 expression by miR-338-3p promotes non-small cell lung cancer via changes in EGFR signaling.
+hsa-miR-600		non-small cell lung cancer	down	miR-600 inhibits lung cancer via downregulating the expression of METTL3.
+hsa-miR-101-5p		non-small cell lung cancer	down	miRNA-101-5p inhibits the growth and aggressiveness of NSCLC cells through targeting CXCL6.
+hsa-miR-223		non-small cell lung cancer	down	miRNA-223 is an anticancer gene in human non-small cell lung cancer through the PI3K/AKT pathway by targeting EGFR.
+hsa-miR-1260b		non-small cell lung cancer	up	miR-1260b, mediated by YY1, activates KIT signaling by targeting SOCS6 to regulate cell proliferation and apoptosis in NSCLC.
+hsa-miR-217		non-small cell lung cancer	down	Long non-coding RNA HOTAIR regulates the development of non-small cell lung cancer through miR-217/DACH1 signaling pathway.
+hsa-miR-126-3p		non-small cell lung cancer	down	MiR-126-3p suppresses the growth, migration and invasion of NSCLC via targeting CCR1.
+hsa-miR-193a-3p		non-small cell lung cancer	down	miR-193a-3p inhibition of the Slug activator PAK4 suppresses non-small cell lung cancer aggressiveness via the p53/Slug/L1CAM pathway.
+hsa-miR-4458		non-small cell lung cancer	down	MicroRNA-4458 suppresses migration and epithelial-mesenchymal transition via targeting HMGA1 in non-small-cell lung cancer cells.
+hsa-miR-454-3p		non-small cell lung cancer	down	Downregulation of Calbindin 1 by miR-454-3p Suppresses Cell Proliferation in Nonsmall Cell Lung Cancer In Vitro.
+hsa-miR-195-5p		non-small cell lung cancer	down	MiRNA-195-5p Functions as a Tumor Suppressor and a Predictive of Poor Prognosis in Non-small Cell Lung Cancer by Directly Targeting CIAPIN1.
+hsa-miR-181d-5p		non-small cell lung cancer	down	Tumor-suppressive effects of microRNA-181d-5p on non-small-cell lung cancer through the CDKN3-mediated Akt signaling pathway in vivo and in vitro.
+hsa-miR-3188		non-small cell lung cancer	down	MiR-3188 Inhibits Non-small Cell Lung Cancer Cell Proliferation Through FOXO1-Mediated mTOR-p-PI3K/AKT-c-JUN Signaling Pathway.
+hsa-miR-139-5p		non-small cell lung cancer	down	Expression and clinical significance of miR-139-5p in non-small cell lung cancer.
+hsa-miR-141-3p		non-small cell lung cancer	down	MiR-141-3p functions as a tumor suppressor through directly targeting ZFR in non-small cell lung cancer.
+hsa-miR-4735-3p		non-small cell lung cancer	up	FBXL3 is regulated by miRNA-4735-3p and suppresses cell proliferation and migration in non-small cell lung cancer.
+hsa-miR-133a		lung squamous cell carcinoma	down	Tumor suppressive microRNA-133a regulates novel molecular networks in lung squamous cell carcinoma.
+hsa-miR-218		lung squamous cell carcinoma	down	MicroRNA-218 is deleted and downregulated in lung squamous cell carcinoma.
+hsa-miR-588		lung squamous cell carcinoma	down	MicroRNA-588 suppresses tumor cell migration and invasion by targeting GRN in lung squamous cell carcinoma.
+hsa-miR-218		lung squamous cell carcinoma	down	Regulation of TPD52 by antitumor microRNA-218 suppresses cancer cell migration and invasion in lung squamous cell carcinoma.
+hsa-miR-372-3p		lung squamous cell carcinoma	up	MiR-372-3p promotes cell growth and metastasis by targeting FGF9 in lung squamous cell carcinoma.
+hsa-miR-448		lung squamous cell carcinoma	down	miR-448 is a novel prognostic factor of lung squamous cell carcinoma and regulates cells growth and metastasis by targeting DCLK1.
+hsa-miR-223-3p		lung squamous cell carcinoma	down	MiR-223-3p functions as a tumor suppressor in lung squamous cell carcinoma by miR-223-3p-mutant p53 regulatory feedback loop.
+hsa-miR-1297		lung adenocarcinoma	down	miR-511 and miR-1297 inhibit human lung adenocarcinoma cell proliferation by targeting oncogene TRIB2.
+hsa-miR-141	mir-200	lung adenocarcinoma	down	miR-200 Inhibits lung adenocarcinoma cell invasion and metastasis by targeting Flt1/VEGFR1.
+hsa-miR-145		lung adenocarcinoma	down	Restoration of tumour suppressor hsa-miR-145 inhibits cancer cell growth in lung adenocarcinoma patients with epidermal growth factor receptor mutation.
+hsa-miR-145		lung adenocarcinoma	down	MiR-145 inhibits cell proliferation of human lung adenocarcinoma by targeting EGFR and NUDT1.
+hsa-miR-145		lung adenocarcinoma	down	microRNA-145 suppresses lung adenocarcinoma-initiating cell proliferation by targeting OCT4.
+hsa-miR-145		lung adenocarcinoma	down	[miR-145 inhibits lung adenocarcinoma stem cells proliferation by targeting OCT4 gene].
+hsa-miR-145		lung adenocarcinoma	down	MiR-145 regulates cancer stem-like properties and epithelial-to-mesenchymal transition in lung adenocarcinoma-initiating cells.
+hsa-miR-150		lung adenocarcinoma	up	Altered miR-143 and miR-150 expressions in peripheral blood mononuclear cells for diagnosis of non-small cell lung cancer.
+hsa-miR-155		lung adenocarcinoma	up	Potential diagnostic value of miR-155 in serum from lung adenocarcinoma patients.
+hsa-miR-16		lung adenocarcinoma	down	Quercetin Decreases Claudin-2 Expression Mediated by Up-Regulation of microRNA miR-16 in Lung Adenocarcinoma A549 Cells.
+hsa-miR-200a	mir-200	lung adenocarcinoma	down	miR-200 Inhibits lung adenocarcinoma cell invasion and metastasis by targeting Flt1/VEGFR1.
+hsa-miR-200b	mir-200	lung adenocarcinoma	down	miR-200 Inhibits lung adenocarcinoma cell invasion and metastasis by targeting Flt1/VEGFR1.
+hsa-miR-200c	mir-200	lung adenocarcinoma	down	miR-200 Inhibits lung adenocarcinoma cell invasion and metastasis by targeting Flt1/VEGFR1.
+hsa-miR-29b		lung adenocarcinoma	down	MicroRNA-29b is involved in the Src-ID1 signaling pathway and is dysregulated in human lung adenocarcinoma.
+hsa-miR-31		lung adenocarcinoma	up	MicroRNA-31 Predicts the Presence of Lymph Node Metastases and Survival in Patients with Lung Adenocarcinoma.
+hsa-miR-31		lung adenocarcinoma	down	MicroRNA-31 inhibits lung adenocarcinoma stem-like cells via down-regulation of MET-PI3K-Akt signaling pathway.
+hsa-miR-381		lung adenocarcinoma	down	MicroRNA-381 represses ID1 and is deregulated in lung adenocarcinoma.
+hsa-miR-409-3p		lung adenocarcinoma	down	MicroRNA-409-3p functions as a tumor suppressor in human lung adenocarcinoma by targeting c-Met.
+hsa-miR-429	mir-200	lung adenocarcinoma	down	miR-200 Inhibits lung adenocarcinoma cell invasion and metastasis by targeting Flt1/VEGFR1.
+hsa-miR-451		lung adenocarcinoma	down	Acquisition of radioresistance in docetaxel-resistant human lung adenocarcinoma cells is linked with dysregulation of miR-451/c-Myc-survivin/rad-51 signaling.
+hsa-miR-511		lung adenocarcinoma	down	miR-511 and miR-1297 inhibit human lung adenocarcinoma cell proliferation by targeting oncogene TRIB2.
+hsa-miR-99a		lung adenocarcinoma	down	Clinic significance of microRNA-99a expression in human lung adenocarcinoma.
+hsa-miR-214		lung adenocarcinoma	up	microRNA-214 promotes epithelial-mesenchymal transition and metastasis in lung adenocarcinoma by targeting the suppressor-of-fused protein (Sufu).
+hsa-miR-33b		lung adenocarcinoma	down	MicroRNA-33b inhibits lung adenocarcinoma cell growth, invasion, and epithelial-mesenchymal transition by suppressing Wnt/?-catenin/ZEB1 signaling.
+hsa-miR-99a		lung adenocarcinoma	down	miR-99a regulates ROS-mediated invasion and migration of lung adenocarcinoma cells by targeting NOX4.
+hsa-miR-432		lung adenocarcinoma	down	MicroRNA-432 functions as a tumor suppressor gene through targeting E2F3 and AXL in lung adenocarcinoma.
+hsa-miR-124		lung adenocarcinoma	down	miR-124 inhibits cell proliferation, migration and invasion by directly targeting SOX9 in lung adenocarcinoma.
+hsa-miR-30a		lung adenocarcinoma	down	Overexpression of miR-30a in lung adenocarcinoma A549 cell line inhibits migration and invasion via targeting EYA2.
+hsa-miR-31		lung adenocarcinoma	up	MicroRNA-31 initiates lung tumorigenesis and promotes mutant KRAS-driven lung cancer.
+hsa-miR-374a		lung adenocarcinoma	down	MiR-374a suppresses lung adenocarcinoma cell proliferation and invasion by targeting TGFA gene expression.
+hsa-miR-297		lung adenocarcinoma	up	miR-297 acts as an oncogene by targeting GPC5 in lung adenocarcinoma.
+hsa-miR-206		lung adenocarcinoma	down	MicroRNA-206 inhibits the viability and migration of human lung adenocarcinoma cells partly by targeting MET.
+hsa-miR-203		lung adenocarcinoma	down	Direct interaction between miR-203 and ZEB2 suppresses epithelial-mesenchymal transition signaling and reduces lung adenocarcinoma chemoresistance.
+hsa-miR-623		lung adenocarcinoma	down	Hsa-miR-623 suppresses tumor progression in human lung adenocarcinoma.
+hsa-miR-29c		lung adenocarcinoma	down	MicroRNA-29c functions as a tumor suppressor by targeting VEGFA in lung adenocarcinoma.
+hsa-miR-145		lung adenocarcinoma	down	MiRNA-145 suppresses lung adenocarcinoma cell invasion and migration by targeting N-cadherin.
+hsa-miR-623		lung adenocarcinoma	down	Hsa-miR-623 suppresses tumor progression in human lung adenocarcinoma.
+hsa-miR-133b	mir-133	lung adenocarcinoma	down	miR-133 involves in lung adenocarcinoma cell metastasis by targeting FLOT2.
+hsa-miR-363-3p		lung adenocarcinoma	down	miR-363-3p inhibits tumor growth by targeting PCNA in lung adenocarcinoma.
+hsa-miR-501-5p		lung adenocarcinoma	up	[Expression profile of miR-501-5p in lung adenocarcinoma patients from Xuanwei area].
+hsa-miR-519d		lung adenocarcinoma	down	Overexpression of miR-519d in lung adenocarcinoma inhibits cell proliferation and invasion via the association of eIF4H.
+hsa-miR-141		lung adenocarcinoma	down	HOXC13 promotes proliferation of lung adenocarcinoma via modulation of CCND1 and CCNE1.
+hsa-miR-218		lung adenocarcinoma	down	miR-218 suppresses epithelial-to-mesenchymal transition by targeting Robo1 and Ecop in lung adenocarcinoma cells.
+hsa-miR-1236-3p		lung adenocarcinoma	down	miR-1236-3p suppresses the migration and invasion by targeting KLF8 in lung adenocarcinoma A549 cells.
+hsa-miR-125a-5p		lung adenocarcinoma	down	miR-125a-5p upregulation suppresses the proliferation and induces the cell apoptosis of lung adenocarcinoma by targeting NEDD9.
+hsa-miR-96		lung adenocarcinoma	up	Identification and characterization of miR-96, a potential biomarker of NSCLC, through bioinformatic analysis.
+hsa-miR-30e-5p		lung adenocarcinoma	up	MicroRNA-30e-5p promotes cell growth by targeting PTPN13 and indicates poor survival and recurrence in lung adenocarcinoma.
+hsa-miR-135b		lung adenocarcinoma	up	Peripheral lung adenocarcinomas harboring epithelial growth factor receptor mutations with microRNA-135b overexpression are more likely to invade visceral pleura.
+hsa-miR-767-3p		lung adenocarcinoma	down	miR-767-3p inhibits growth and migration of lung adenocarcinoma cells by regulating CLDN18.
+hsa-miR-136-5p		lung adenocarcinoma	up	Role of upregulated miR-136-5p in lung adenocarcinoma: A study of 1242 samples utilizing bioinformatics analysis.
+hsa-miR-373-3p		lung adenocarcinoma	up	miR-373-3p promotes lung adenocarcinoma cell proliferation via APP.
+hsa-miR-204		lung adenocarcinoma	down	MicroRNA-204 deregulation in lung adenocarcinoma controls the biological behaviors of endothelial cells potentially by modulating Janus kinase 2-signal transducer and activator of transcription 3 path
+hsa-miR-216b-3p		lung adenocarcinoma	down	MicroRNA-216b-3p inhibits lung adenocarcinoma cell growth via regulating PDZ binding kinase/T-LAK-cell-originated protein kinase.
+hsa-miR-365a-3p		lung adenocarcinoma	up	MicroRNA-365 promotes lung carcinogenesis by downregulating the USP33/SLIT2/ROBO1 signalling pathway.
+hsa-miR-214		lung adenocarcinoma	up	TWIST1 upregulates miR-214 to promote epithelial-to-mesenchymal transition and metastasis in lung adenocarcinoma.
+hsa-miR-1290		lung adenocarcinoma	up	miR-1290 promotes lung adenocarcinoma cell proliferation and invasion by targeting SOCS4.
+hsa-miR-24-3p		lung adenocarcinoma	up	Long Noncoding RNA LINC00472 Inhibits Proliferation and Promotes Apoptosis of Lung Adenocarcinoma Cells via Regulating miR-24-3p/ DEDD.
+hsa-miR-623		lung adenocarcinoma	down	Correction to: Hsa-miR-623 suppresses tumor progression in human lung adenocarcinoma.
+hsa-miR-425		lung adenocarcinoma	down	MicroRNA-425 promotes the development of lung adenocarcinoma via targeting A disintegrin and metalloproteinases 9 (ADAM9).
+hsa-miR-206		lung adenocarcinoma	down	MicroRNA-206 suppresses TGF-? signalling to limit tumor growth and metastasis in lung adenocarcinoma.
+hsa-miR-148a		lung adenocarcinoma	down	MicroRNA-148a inhibits cell proliferation and cell cycle progression in lung adenocarcinoma via directly targeting transcription factor E2F3.
+hsa-miR-339-5p		lung adenocarcinoma	down	miR-339-5p inhibits lung adenocarcinoma invasion and migration by directly targeting BCL6.
+hsa-miR-499a-5p		lung adenocarcinoma	up	Exosomal miR-499a-5p promotes cell proliferation, migration and EMT via mTOR signaling pathway in lung adenocarcinoma.
+hsa-miR-363-3p		lung adenocarcinoma	down	miR-363-3p inhibits migration, invasion, and epithelial-mesenchymal transition by targeting NEDD9 and SOX4 in non-small-cell lung cancer.
+hsa-miR-21-5p		lung adenocarcinoma	up	miR-21-5p promotes lung adenocarcinoma progression partially through targeting SET/TAF-I?.
+hsa-miR-142-3p		lung adenocarcinoma	down	MiR-142-3p suppresses the proliferation, migration and invasion through inhibition of NR2F6 in lung adenocarcinoma.
+hsa-miR-195		lung adenocarcinoma	down	MicroRNA-195 suppresses the progression of lung adenocarcinoma by directly targeting apelin.
+hsa-miR-1-3p		lung adenocarcinoma	down	MiR-1-3p Inhibits Lung Adenocarcinoma Cell Tumorigenesis via Targeting Protein Regulator of Cytokinesis 1.
+hsa-miR-944		lung adenocarcinoma	down	miR-944 inhibits lung adenocarcinoma tumorigenesis by targeting STAT1 interaction.
+hsa-miR-204		lung adenocarcinoma	down	MicroRNA-204 targets SOX4 to inhibit metastasis of lung adenocarcinoma.
+hsa-miR-1205		lung adenocarcinoma	up	microRNA-1205 promotes cell growth by targeting APC2 in lung adenocarcinoma.
+hsa-miR-138-5p		lung adenocarcinoma	down	MiR-138-5p suppresses lung adenocarcinoma cell epithelial-mesenchymal transition, proliferation and metastasis by targeting ZEB2.
+hsa-miR-210		lung adenocarcinoma	up	miR-210 promotes lung adenocarcinoma proliferation, migration, and invasion by targeting lysyl oxidase-like 4.
